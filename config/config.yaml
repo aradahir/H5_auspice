@@ -1,0 +1,25 @@
+# Nextstrain Build Configuration for H5Nx
+
+# Clade calling options
+clades:
+  "H5Nx clade 2.3.4.4": "community/moncla-lab/iav-h5/ha/2.3.4.4"
+  "H5Nx (all clades)": "community/moncla-lab/iav-h5/ha/all-clades"
+  "H5Nx clade 2.3.2.1": "community/moncla-lab/iav-h5/ha/2.3.2.1"
+
+# Which clade dataset to use
+clade_calling: "H5Nx (all clades)"
+
+# Alignment options: 'full_seq' or 'trimmed'
+alignment_option: "full_seq"
+
+# Reference sequence
+reference_name: "A/bobcat/Wisconsin/22-016051-001/2022"
+
+# Tree parameters
+header_name: "H5Nx"
+clock_rate: 0.00249
+clock_std_dev: 0.000329
+
+# Gene annotation
+gene_name: "all"
+

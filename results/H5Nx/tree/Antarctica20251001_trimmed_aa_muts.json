@@ -1,0 +1,1607 @@
+{
+  "annotations": {
+    "HA": {
+      "end": 7212,
+      "seqid": "results/H5Nx/tree/Antarctica20251001_trimmed_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 7212,
+      "seqid": "results/H5Nx/tree/Antarctica20251001_trimmed_reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  },
+  "nodes": {
+    "A/Antarctic_Fur_Seal/Jason_Harbour/141037/2023": {
+      "aa_muts": {
+        "HA": [
+          "H511Y"
+        ]
+      }
+    },
+    "A/Antarctic_tern/King_Edward_Point/141271/2023": {
+      "aa_muts": {
+        "HA": [
+          "K706*"
+        ]
+      }
+    },
+    "A/Black_Skimmer/Maule/240379/2023": {
+      "aa_muts": {
+        "HA": [
+          "F128L",
+          "T144M",
+          "V1484M",
+          "R1492Q",
+          "R1688H"
+        ]
+      }
+    },
+    "A/Brown_Skua/Bird_Island/141232/2023": {
+      "aa_muts": {
+        "HA": [
+          "K864*"
+        ]
+      }
+    },
+    "A/Brown_Skua/Gough_Island/047354/2024": {
+      "aa_muts": {
+        "HA": [
+          "P2013S"
+        ]
+      }
+    },
+    "A/Brown_Skua/Gough_Island/047355/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_Skua/Hound_Bay/133947/2023": {
+      "aa_muts": {
+        "HA": [
+          "M1062T",
+          "S1217L",
+          "P1376S",
+          "G1939S",
+          "H2045Y"
+        ]
+      }
+    },
+    "A/Brown_Skua/Hound_Bay/133949/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_Skua/Moltke_Harbour/133752/2023": {
+      "aa_muts": {
+        "HA": [
+          "G1131E",
+          "W2234*"
+        ]
+      }
+    },
+    "A/Brown_Skua/Moltke_Harbour/133755/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_Skua/Penguin_River/141236/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_Skua/Penguin_River/141240/2023": {
+      "aa_muts": {
+        "HA": [
+          "K648R",
+          "*706K",
+          "I726T",
+          "A1127E",
+          "L1691P"
+        ]
+      }
+    },
+    "A/Brown_Skua/Torgersen_Island/o81-b82/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Bird_Island/128287/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Bird_Island/128288/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Bird_Island/128289/2023": {
+      "aa_muts": {
+        "HA": [
+          "E1587G"
+        ]
+      }
+    },
+    "A/Brown_skua/Fildes_Peninsula/B1/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Fildes_Peninsula/B2/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Fildes_Peninsula/B3/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Fildes_Peninsula/F4/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Brown_skua/Hope_Bay/SK02-30/2024": {
+      "aa_muts": {
+        "HA": [
+          "N627D",
+          "Y1591C"
+        ]
+      }
+    },
+    "A/Brown_skua/Torgersen_Island/o8182/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Chile/25945/2023": {
+      "aa_muts": {
+        "HA": [
+          "L1180R"
+        ]
+      }
+    },
+    "A/Guanay_cormorant/Peru/PIU-SER024/2022": {
+      "aa_muts": {
+        "HA": [
+          "A727V"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Harpon_Bay/133943/2023": {
+      "aa_muts": {
+        "HA": [
+          "D59N",
+          "P154L",
+          "N1298S",
+          "N1529I",
+          "A1684V"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Hound_Bay/133744/2023": {
+      "aa_muts": {
+        "HA": [
+          "S577T",
+          "K1505E",
+          "H2045N"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Hound_Bay/133747/2023": {
+      "aa_muts": {
+        "HA": [
+          "G421S",
+          "E694G",
+          "*1371W"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Moltke_Harbour/133754/2023": {
+      "aa_muts": {
+        "HA": [
+          "S537N",
+          "A2253T"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Penguin_River/141234/2023": {
+      "aa_muts": {
+        "HA": [
+          "H511Y"
+        ]
+      }
+    },
+    "A/Kelp_Gull/Penguin_River/141239/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Pelican/Antofagasta/228246-2/2022": {
+      "aa_muts": {
+        "HA": [
+          "E1044G",
+          "P1521L",
+          "R1857H",
+          "V2153M"
+        ]
+      }
+    },
+    "A/Procellaria_aequinoctialis/Sao_Paulo/2259-N/2023": {
+      "aa_muts": {
+        "HA": [
+          "F1441L",
+          "R1522K",
+          "L1824R",
+          "V2153G"
+        ]
+      }
+    },
+    "A/Sanderling/Peru/PIU-SER005/2022": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Sea_Lion/Argentina/3893-1/2023": {
+      "aa_muts": {
+        "HA": [
+          "L247P"
+        ]
+      }
+    },
+    "A/Skua/Beak_Island/SK09-147/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK10-155/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK11-164/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK12-173/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK12-174/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK13-180/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Beak_Island/SK17-184/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Devil_Island/SK07-51/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Skua/Devil_Island/SK07-52/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_American_tern/Argentina/CH-PD037/2023": {
+      "aa_muts": {
+        "HA": [
+          "V1295I",
+          "A2126T",
+          "M2159V"
+        ]
+      }
+    },
+    "A/South_Georgia_Shag/King_Edward_Cove/141245/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU1/2024": {
+      "aa_muts": {
+        "HA": [
+          "T1173I"
+        ]
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU2/2024": {
+      "aa_muts": {
+        "HA": [
+          "G1092E"
+        ]
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU3/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU4/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5L/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/South_polar_skua/Beak_Island/SK08-138/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141027/2023": {
+      "aa_muts": {
+        "HA": [
+          "C116Y",
+          "V365A",
+          "*370Q",
+          "S1147N"
+        ]
+      }
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141078/2023": {
+      "aa_muts": {
+        "HA": [
+          "A448T",
+          "I665V",
+          "W849*",
+          "D1977N",
+          "S2075P",
+          "T2239M"
+        ]
+      }
+    },
+    "A/Southern_fulmar/Falkland_Islands/133789/2023": {
+      "aa_muts": {
+        "HA": [
+          "C372R",
+          "D1423N",
+          "Q1960R",
+          "E2335K"
+        ]
+      }
+    },
+    "A/antarctic_fur_seal/Antarctica/O2904-BR/2024": {
+      "aa_muts": {
+        "HA": [
+          "R178Q",
+          "W997*",
+          "M1019R",
+          "V1205M",
+          "T1237K",
+          "A1263V",
+          "R1688H",
+          "G1860R",
+          "L2136P",
+          "V2224A"
+        ]
+      }
+    },
+    "A/antarctic_fur_seal/Antarctica/O2913-BR/2024": {
+      "aa_muts": {
+        "HA": [
+          "R61K",
+          "D98N",
+          "G455R",
+          "P510Q",
+          "R597C",
+          "G704E",
+          "R1009K",
+          "L1135S",
+          "*1156W",
+          "H1250R",
+          "A1378T",
+          "I1487V"
+        ]
+      }
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-BR/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-NS/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-OR/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/black_skimmer/Chile/C61962/2022": {
+      "aa_muts": {
+        "HA": [
+          "A1596T",
+          "P1626L"
+        ]
+      }
+    },
+    "A/bobcat/Wisconsin/22-016051-001/2022": {
+      "aa_muts": {
+        "HA": [
+          "V701A",
+          "T1053I",
+          "E1113G",
+          "I1214T",
+          "G1385R",
+          "I1556T",
+          "S2382A"
+        ]
+      }
+    },
+    "A/brown_skua/Crozet/24P023412/2024": {
+      "aa_muts": {
+        "HA": [
+          "A181E"
+        ]
+      }
+    },
+    "A/brown_skua/Kerguelen/24P023443/2024": {
+      "aa_muts": {
+        "HA": [
+          "E1311G"
+        ]
+      }
+    },
+    "A/brown_skua/Kerguelen/24P023446/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/cape_petrel/Crozet/24P023427/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/chicken/Atacama/235254-2/2023": {
+      "aa_muts": {
+        "HA": [
+          "L315F",
+          "M1043I",
+          "R1688H"
+        ]
+      }
+    },
+    "A/chicken/Metropolitana/243148-1/2023": {
+      "aa_muts": {
+        "HA": [
+          "*1203Q"
+        ]
+      }
+    },
+    "A/chicken/OHiggins/241252-1/2023": {
+      "aa_muts": {
+        "HA": [
+          "P515S",
+          "A2080T"
+        ]
+      }
+    },
+    "A/chicken/OHiggins/241252-3/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/chicken/OHiggins/241252-6/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/environment/Chile/C62044/2022": {
+      "aa_muts": {
+        "HA": [
+          "Q2020*"
+        ]
+      }
+    },
+    "A/kelp_gull/Antartica/O2601-CL/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/kelp_gull/Kerguelen/24P023440/2024": {
+      "aa_muts": {
+        "HA": [
+          "W245*",
+          "Y2009C"
+        ]
+      }
+    },
+    "A/kelp_gull/South_Shetland_Islands/10272/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/king_penguin/Crozet/24P021412/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/king_penguin/Crozet/24P021416/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/king_penguin/Crozet/24P023398/2024": {
+      "aa_muts": {
+        "HA": [
+          "M1586T"
+        ]
+      }
+    },
+    "A/king_penguin/Crozet/24P023407/2024": {
+      "aa_muts": {
+        "HA": [
+          "G421V",
+          "E1432K",
+          "G1466D",
+          "A2213T"
+        ]
+      }
+    },
+    "A/king_penguin/Crozet/24P023414/2024": {
+      "aa_muts": {
+        "HA": [
+          "R388K",
+          "F1476L"
+        ]
+      }
+    },
+    "A/pinniped/Uruguay/P10_8923/2023": {
+      "aa_muts": {
+        "HA": [
+          "R885K"
+        ]
+      }
+    },
+    "A/pinniped/Uruguay/P13_11923/2023": {
+      "aa_muts": {
+        "HA": [
+          "L2162F"
+        ]
+      }
+    },
+    "A/pinniped/Uruguay/P14_11923/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/pinniped/Uruguay/P4_6923/2023": {
+      "aa_muts": {
+        "HA": [
+          "E1036G",
+          "Q1796R"
+        ]
+      }
+    },
+    "A/pintado_petrel/Antarctica/O3121-CL/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/pintado_petrel/Antarctica/O3121-OR/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/royal_tern/Argentina/CH-PD036/2023": {
+      "aa_muts": {
+        "HA": [
+          "G955E",
+          "F1281S",
+          "R2231I",
+          "Q2297L"
+        ]
+      }
+    },
+    "A/sea_lion/Tarapaca/245719-10/2023": {
+      "aa_muts": {
+        "HA": [
+          "*799W",
+          "S1090F",
+          "N2191T"
+        ]
+      }
+    },
+    "A/skua/Antarctica/O3575-OR/2025": {
+      "aa_muts": {
+        "HA": [
+          "T724I"
+        ]
+      }
+    },
+    "A/skua/Antarctica/O3577-CL/2025": {
+      "aa_muts": {
+        "HA": [
+          "R1005K"
+        ]
+      }
+    },
+    "A/skua/Antarctica/O3577-OR/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Antarctica/O3588-CL/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Antarctica/O3589-CL/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Antarctica/O3589-OR/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Antarctica/O3592-CL/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Antarctica/O3592-OR/2025": {
+      "aa_muts": {
+        "HA": [
+          "N59D",
+          "R1492Q",
+          "M1656V"
+        ]
+      }
+    },
+    "A/skua/Antarctica/O3610-OR/2025": {
+      "aa_muts": {
+        "HA": [
+          "Q1187R",
+          "S1745L",
+          "R1880*",
+          "Q2264R",
+          "E2265G"
+        ]
+      }
+    },
+    "A/skua/Curverville/INT.OE5.146/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.147/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.148/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.149/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.150/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.266/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.267/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.271/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.273/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.275/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.278/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Curverville/INT.OE5.281/2025": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/skua/Yalours/INT.OE5.379/2025": {
+      "aa_muts": {
+        "HA": [
+          "A205V",
+          "R998K",
+          "G1635D",
+          "V1772G",
+          "V1941I",
+          "H2252R",
+          "I2281T"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Argentina/CH-PD035/2023": {
+      "aa_muts": {
+        "HA": [
+          "G2321E"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021402/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021403/2024": {
+      "aa_muts": {
+        "HA": [
+          "K2261R"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021404/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021407/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021415/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021417/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021420/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P021422/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P023401/2024": {
+      "aa_muts": {
+        "HA": [
+          "V1012A",
+          "M1019T",
+          "P1988S"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P023403/2024": {
+      "aa_muts": {
+        "HA": [
+          "E422K",
+          "Q1240R",
+          "G1728V",
+          "W2276*"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P023417/2024": {
+      "aa_muts": {
+        "HA": [
+          "G1490R"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P023419/2024": {
+      "aa_muts": {
+        "HA": [
+          "G505S",
+          "I812T"
+        ]
+      }
+    },
+    "A/southern_elephant_seal/Crozet/24P023422/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023433/2024": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023439/2024": {
+      "aa_muts": {
+        "HA": [
+          "D425G"
+        ]
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "HA": []
+      },
+      "aa_sequences": {
+        "HA": "SGMRIMVRGNSPVFNYNKATKRLTVLGKDAGALTEDPDEGTAGVESAVLRGFLILGKEDKRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRQDCWSQMEDQIYTIFGIFTFQKSA*NGS*WTKTIREGFVIP*TRLSATRK*SL*TMLW*CQLMARPRAWNMMLLPPLTPGYRRGTAPFSIQAKGESLKTNRCIKSAATCSKNSSLAVHTGGQLEFPAWWRPWFLGPELTHELTSNLDGLRRRSLLRS*RSVPPLKTQTAEIAKSVFNSLYASPQLEGFSAESRKLLLIVQALRDNLEPGTFDLGGLYEAIEECLINDPWVLLNASWFNSFLTHALK*MENIVLFNS*PC*K*SDLHWLPCKQFDRAS*HDNGKERHCYTCPRHTGKNTQREAL*SKWGEATDFKGL*CSWMAPRKPNVRRIHQSAGMVLHSGAG*PS**PLLPREPQ*L*RTETHVEQNKSF*EDSDHSQEFLAKS*NITRGERSCPYQGAPSFFRNVVWLIKKNDAYPTIKISYNNTNREDLLILWGIHHSNNAEEQTNLYKNPTTYISVGTSTLNQRLAPKIATRSQVNGQRGRMDFFWTILKPDDAIHFESNGNSRICIQNCQEGDSTIMKSGVEYGHCNTKCQTPVGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPQEKREEKEVCLGR*QGL*REDGREWLMVGMGTIIAMSRGVGTLRTKNPPKRQ*MELPIRSTQSLTK*TLNLRQLEGSLIT*KGG*RI*TRKWKTDS*MSGPIMLNF*FSWKTRGL*ISMIQMSRTFTTKSDYSLGIMQRSWVTAVSNSITNVIMNVWKV*EMGRMTTLSIQKKQD*KEKK*AE*N*NQ*GLTRYCQFIQQRQVP*HWQS*WLVYLYGCAPMGRYSAEFALAPNDPMNKWKLVGNARMPLKSEHLLEEWLAESGDSTYRCALSSNSVITKGG*FKTA*P*KGWFSRHLMRGGTSTWRNIPVPGRIPRRLEVQSTGGEMANG*ES*SSTTKKRSEEFGVKLIMERMQLLVSLT**FGIPI*MMPHTREQGHLCVLEWTLECAL*CKAQPSLGDPGLLEQQ*KELEQW*WN*FE*SNEGSMIGISGEAKTVGEPGLPTRECATSSRESSKQQHNGQ*WTK*EKAGILGMLKLKISSFSHDLLSS*GDQWLISPVCLLAYMDLL*PVDMTLKERDIL*SELILSVCSKTAKSSVSSDRTKIQLIKVSWYGWHATLRHLRI*ECQASSEGQE*SQEDNCPPEEFRLLQMKTWRQWTPVLLN*GADTGL*EQEVEETLTTESICRTNQRTAHILCAKKPPIRESNHHGSIYGKH*RQNFRHEN*DHKDDGKCQT*RCVFPGAGSLRALGRKGNEPDRAFL*HE**RILFLRRQCRGNHWINLYGNWDSQLDAANWEHNLNMG*PFNPNRESIPA*TMQSKHHYL*AC*AGCYFGNISGQFISLPY*WVGNIQ*GQRYKNWVQGGCVCYKRTVHLMLPLGMQIF*PRELC*MTNILMGPLRIEALIEL**VVPWVRLLPRIIQDLSLLLGRQVLVMMASVG*QSVFLVQTMELWLY*STMA**RILSRVGETTF*ELKNLNVRA*MALASP**LMDQAMGRPHIKSSR*RKGKLSNQLN*MPLITTTRNAPVILMRVILCVCAGTIGMAQTGRGYLLIKIWSIK*DIYAVGFSGTIPAPMMEQAVAVQCPLMGHMG*KGFHLSTVMGFGSEEQKALVPEAALR*FGIRMGGLRRTVVSQ*SKTL*K*LTGQDIVGVLSSIQN*QD*IA*GLVSGLS*LEGGPKRTQFGLAGAACPFVV*IVTLWVGLGQTVLSCHSPLTLYRPVGPPQSRDRAET*RCLCREEHRS*GSHGMAKDKTNPVTSD*GDFGICVHAHRAQ*ARTAA*TLCPKCSKWKWRPKQHGQGSQVVQETEERDNIPWG*RSCTQLLNRCTCQLYGSHIQQDGDGDRRSGIGPSVCHL*ADC*FTASVSQTDSYHHQPTNQT*KQNGVGQYYS*GYGADGWIE*ASSGSHGGC*SG*ADGAGDEDHWNSS*LQCRSER*SP*KFAGLPKTDGSATAAIQVILSLLPQVSLGSCT*YCGFLIAFSSNAFIVALNTV*KEGLLRKEYLSP*GKSTGRSRVLWMLTIVILST*WIPTLCQAFR*TAFFGMSANDLQTKNWVMPHSLTGSAETRSL*EEEAALLVWTSRRPLVLESR*WRGFWRKNPTRHSK*LLPLCLLHAT*LT*LLKRCQETGSCSCPSKKWQAPSIGWRH*YYSELSLKREQLSAKFHHCLLFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGNSNEDGRPPLPPKQKRKMARTIESEV*RNKVAD*RSSTQTKDHRK*F*TNNIYASLTTT"
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "HA": [
+          "M6L",
+          "M169T",
+          "S418F",
+          "G723D",
+          "G882E",
+          "S917N",
+          "S964N",
+          "F975S",
+          "P1094Q",
+          "S1143F",
+          "T1303I",
+          "A1332T",
+          "H1357Y",
+          "P1534Q",
+          "R1618L",
+          "N1654K",
+          "L1813S",
+          "C1829Y",
+          "K1929N",
+          "G1954C",
+          "V2023F",
+          "I2159M",
+          "A2364E"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "HA": [
+          "N1651S",
+          "K1654R",
+          "E1946K",
+          "R2295K"
+        ]
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {
+        "HA": [
+          "G1267E"
+        ]
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "HA": [
+          "K374E",
+          "A415T",
+          "T2218A"
+        ]
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000007": {
+      "aa_muts": {
+        "HA": [
+          "F1037L"
+        ]
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "HA": [
+          "D59N",
+          "A1141V",
+          "S2065P",
+          "I2367T"
+        ]
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "HA": [
+          "C1331R",
+          "D2186N"
+        ]
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "HA": [
+          "*706K",
+          "R764K",
+          "P1513S",
+          "S2050P",
+          "S2104L"
+        ]
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "HA": [
+          "L175P"
+        ]
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000016": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "HA": [
+          "F889S",
+          "R1522K"
+        ]
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "HA": [
+          "I1242T",
+          "Q1272R",
+          "L1658P",
+          "P1725L",
+          "P1830L"
+        ]
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "HA": [
+          "R507L"
+        ]
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "HA": [
+          "T1252I"
+        ]
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "HA": [
+          "G1185E"
+        ]
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "HA": [
+          "A65T",
+          "L166R",
+          "E374K",
+          "P466S",
+          "E747G",
+          "G993E",
+          "W1589L",
+          "K1613R",
+          "V1791A",
+          "E2368K",
+          "Q2384*"
+        ]
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "HA": [
+          "E694R",
+          "R1290K",
+          "Q1723R",
+          "D1979N"
+        ]
+      }
+    },
+    "NODE_0000032": {
+      "aa_muts": {
+        "HA": [
+          "F800S",
+          "E1132G",
+          "S1148F",
+          "V1295I"
+        ]
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "HA": [
+          "R264K",
+          "V1508I",
+          "D2007N",
+          "C2249F"
+        ]
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "HA": [
+          "S305A",
+          "I665V",
+          "R705Q",
+          "D867N",
+          "R1009K",
+          "I1173T",
+          "S1182*",
+          "P1278L",
+          "R1636K",
+          "S1745L",
+          "T1784I",
+          "L2115S"
+        ]
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "HA": [
+          "D115G",
+          "C173F",
+          "P439S",
+          "F2392L"
+        ]
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "HA": [
+          "L1435F"
+        ]
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "HA": [
+          "K1349E"
+        ]
+      }
+    },
+    "NODE_0000040": {
+      "aa_muts": {
+        "HA": [
+          "P382S",
+          "G776E",
+          "V848A",
+          "G1004E",
+          "Q1047H",
+          "*1114W",
+          "I1173T",
+          "C1224F",
+          "Y1357H",
+          "Y1468H",
+          "P1626L",
+          "V1752F",
+          "S1793F",
+          "R1931G",
+          "S1939G"
+        ]
+      }
+    },
+    "NODE_0000041": {
+      "aa_muts": {
+        "HA": [
+          "N563K",
+          "G1134E",
+          "Q1369*"
+        ]
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "HA": [
+          "S218N"
+        ]
+      }
+    },
+    "NODE_0000044": {
+      "aa_muts": {
+        "HA": [
+          "V640M",
+          "S791Y",
+          "C1194Y",
+          "Q1308L",
+          "K1334E",
+          "G1470S"
+        ]
+      }
+    },
+    "NODE_0000045": {
+      "aa_muts": {
+        "HA": [
+          "Q123R",
+          "E1004G",
+          "Q1353*",
+          "S2369Y"
+        ]
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "HA": [
+          "R2220K"
+        ]
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "HA": [
+          "R195Q",
+          "L210S",
+          "Q629*",
+          "I726T",
+          "D787G",
+          "N999S",
+          "G1470C",
+          "*1620Q"
+        ]
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "HA": [
+          "W1114*"
+        ]
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "HA": [
+          "T1029M"
+        ]
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "HA": [
+          "A1263V"
+        ]
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "HA": [
+          "*629Q"
+        ]
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "HA": [
+          "T817I"
+        ]
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "HA": [
+          "Y511H"
+        ]
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "HA": [
+          "*706K"
+        ]
+      }
+    },
+    "NODE_0000071": {
+      "aa_muts": {
+        "HA": [
+          "T1313I",
+          "T2006A"
+        ]
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "HA": [
+          "F289L"
+        ]
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "HA": [
+          "C116Y",
+          "V365A",
+          "K869E",
+          "*1489Q"
+        ]
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "HA": [
+          "*370Q"
+        ]
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "HA": [
+          "I1239N"
+        ]
+      }
+    },
+    "NODE_0000076": {
+      "aa_muts": {
+        "HA": [
+          "K648R"
+        ]
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "HA": [
+          "N563K",
+          "E869K"
+        ]
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "HA": [
+          "I665V",
+          "P1817Q"
+        ]
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "HA": [
+          "N1110S",
+          "A1755V"
+        ]
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "HA": [
+          "H644R",
+          "S1745L",
+          "*1782W",
+          "H1973N"
+        ]
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "HA": [
+          "D260N",
+          "Q2068K"
+        ]
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "HA": [
+          "R162G",
+          "R388G"
+        ]
+      }
+    },
+    "NODE_0000084": {
+      "aa_muts": {
+        "HA": [
+          "K738R"
+        ]
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "HA": [
+          "S439P"
+        ]
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "HA": [
+          "T884I",
+          "S954L",
+          "C1261F",
+          "C2069Y"
+        ]
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "HA": [
+          "A584V",
+          "N1444K",
+          "E1446K",
+          "H1729Q",
+          "E1944K"
+        ]
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "HA": [
+          "K2338R"
+        ]
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "HA": [
+          "N69S",
+          "N1298S"
+        ]
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "HA": [
+          "T1820A"
+        ]
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "HA": [
+          "*706K",
+          "G1765D",
+          "R1857H"
+        ]
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "HA": [
+          "V1840I",
+          "Y1856H"
+        ]
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "HA": [
+          "L66W",
+          "I625V",
+          "Q629*",
+          "G768E",
+          "G855E",
+          "T859I",
+          "M1019R",
+          "E1105G",
+          "S1182*",
+          "P1294Q",
+          "L2250P"
+        ]
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "HA": [
+          "G261R",
+          "H356R",
+          "N410D",
+          "K566Q",
+          "R696E",
+          "R915G",
+          "L1553P",
+          "P1712H",
+          "D2186H"
+        ]
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "HA": [
+          "T252M",
+          "S257L",
+          "K699R",
+          "*773W",
+          "R893Q",
+          "K1456E",
+          "R1982C",
+          "Q2172R",
+          "A2213T",
+          "R2262K",
+          "S2299*",
+          "S2343L",
+          "T2385N"
+        ]
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "HA": [
+          "*370Q",
+          "G2232E"
+        ]
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "HA": [
+          "V1859I"
+        ]
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "HA": [
+          "G935E"
+        ]
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "HA": [
+          "E121G",
+          "T1252I",
+          "V2224M"
+        ]
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "HA": [
+          "W2217*",
+          "S2268L"
+        ]
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "HA": [
+          "*881W"
+        ]
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "HA": [
+          "N999S"
+        ]
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "HA": [
+          "S1745*"
+        ]
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "HA": [
+          "P912L"
+        ]
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "HA": [
+          "A415T"
+        ]
+      }
+    },
+    "_A/Sanderling/Arica_y_Parinacota/240265/2023": {
+      "aa_muts": {
+        "HA": [
+          "E283G",
+          "Q1047R",
+          "G1490R",
+          "T1507S"
+        ]
+      }
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB007/2023": {
+      "aa_muts": {
+        "HA": [
+          "G1185E",
+          "N2185S"
+        ]
+      }
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB011/2023": {
+      "aa_muts": {
+        "HA": [
+          "G1185E",
+          "T1252I"
+        ]
+      }
+    },
+    "_A/South_American_tern/Argentina/CH-PD030/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    },
+    "_A/sea_lion/Atacama/242444-1/2023": {
+      "aa_muts": {
+        "HA": []
+      }
+    }
+  },
+  "reference": {
+    "HA": "SGMRIMVRGNSPVFNYNKATKRLTVLGKDAGALTEDPDEGTAGVESAVLRGFLILGKEDKRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKRDSSILTDSQTATKRIRQDCWSQMEDQIYTIFGIFTFQKSA*NGS*WTKTIREGFVIP*TRLSATRK*SL*TMLW*CQLMARPRAWNMMLLPPLTPGYRRGTAPFSIQAKGESLKTNRCIKSAATCSKNSSLAVHTGGQLEFPAWWRPWFLGPELTHELTSNLDGLRRRSLLRS*RSVPPLKTQTAEIAKSVFNSLYASPQLEGFSAESRKLLLIVQALRDNLEPGTFDLGGLYEAIEECLINDPWVLLNASWFNSFLTHALK*MENIVLFNS*PC*K*SDLHWLPCKQFDRAS*HDNGKERHCYTCPRHTGKNTQREAL*SKWGEATDFKGL*CSWMAPRKPNVRRIHQSAGMVLHSGAG*PS**PLLPREPQ*L*RTETHVEQNKSF*EDSDHSQEFLAKS*NITRGERSCPYQGAPSFFRNVVWLIKKNDAYPTIKISYNNTNREDLLILWGIHHSNNAEEQTNLYKNPTTYISVGTSTLNQRLAPKIATRSQVNGQRGRMDFFWTILKPDDAIHFESNGNSRICIQNCQEGDSTIMKSGVEYGHCNTKCQTPVGAINSSMPFHNIHPLTIGECPKYVKSNKLVLATGLRNSPQEKREEKEVCLGR*QGL*REDGREWLMVGMGTIIAMSRGVGTLRTKNPPKRQ*MELPIRSTQSLTK*TLNLRQLEGSLIT*KGG*RI*TRKWKTDS*MSGPIMLNF*FSWKTRGL*ISMIQMSRTFTTKSDYSLGIMQRSWVTAVSNSITNVIMNVWKV*EMGRMTTLSIQKKQD*KEKK*AE*N*NQ*GLTRYCQFIQQRQVP*HWQS*WLVYLYGCAPMGRYSAEFALAPNDPMNKWKLVGNARMPLKSEHLLEEWLAESGDSTYRCALSSNSVITKGG*FKTA*P*KGWFSRHLMRGGTSTWRNIPVPGRIPRRLEVQSTGGEMANG*ES*SSTTKKRSEEFGVKLIMERMQLLVSLT**FGIPI*MMPHTREQGHLCVLEWTLECAL*CKAQPSLGDPGLLEQQ*KELEQW*WN*FE*SNEGSMIGISGEAKTVGEPGLPTRECATSSRESSKQQHNGQ*WTK*EKAGILGMLKLKISSFSHDLLSS*GDQWLISPVCLLAYMDLL*PVDMTLKERDIL*SELILSVCSKTAKSSVSSDRTKIQLIKVSWYGWHATLRHLRI*ECQASSEGQE*SQEDNCPPEEFRLLQMKTWRQWTPVLLN*GADTGL*EQEVEETLTTESICRTNQRTAHILCAKKPPIRESNHHGSIYGKH*RQNFRHEN*DHKDDGKCQT*RCVFPGAGSLRALGRKGNEPDRAFL*HE**RILFLRRQCRGNHWINLYGNWDSQLDAANWEHNLNMG*PFNPNRESIPA*TMQSKHHYL*AC*AGCYFGNISGQFISLPY*WVGNIQ*GQRYKNWVQGGCVCYKRTVHLMLPLGMQIF*PRELC*MTNILMGPLRIEALIEL**VVPWVRLLPRIIQDLSLLLGRQVLVMMASVG*QSVFLVQTMELWLY*STMA**RILSRVGETTF*ELKNLNVRA*MALASP**LMDQAMGRPHIKSSR*RKGKLSNQLN*MPLITTTRNAPVILMRVILCVCAGTIGMAQTGRGYLLIKIWSIK*DIYAVGFSGTIPAPMMEQAVAVQCPLMGHMG*KGFHLSTVMGFGSEEQKALVPEAALR*FGIRMGGLRRTVVSQ*SKTL*K*LTGQDIVGVLSSIQN*QD*IA*GLVSGLS*LEGGPKRTQFGLAGAACPFVV*IVTLWVGLGQTVLSCHSPLTLYRPVGPPQSRDRAET*RCLCREEHRS*GSHGMAKDKTNPVTSD*GDFGICVHAHRAQ*ARTAA*TLCPKCSKWKWRPKQHGQGSQVVQETEERDNIPWG*RSCTQLLNRCTCQLYGSHIQQDGDGDRRSGIGPSVCHL*ADC*FTASVSQTDSYHHQPTNQT*KQNGVGQYYS*GYGADGWIE*ASSGSHGGC*SG*ADGAGDEDHWNSS*LQCRSER*SP*KFAGLPKTDGSATAAIQVILSLLPQVSLGSCT*YCGFLIAFSSNAFIVALNTV*KEGLLRKEYLSP*GKSTGRSRVLWMLTIVILST*WIPTLCQAFR*TAFFGMSANDLQTKNWVMPHSLTGSAETRSL*EEEAALLVWTSRRPLVLESR*WRGFWRKNPTRHSK*LLPLCLLHAT*LT*LLKRCQETGSCSCPSKKWQAPSIGWRH*YYSELSLKREQLSAKFHHCLLFQDILMRMSKMQLGSSSEDLNGMITQFESLKLYRDSLGNSNEDGRPPLPPKQKRKMARTIESEV*RNKVAD*RSSTQTKDHRK*F*TNNIYASLTTT"
+  }
+}

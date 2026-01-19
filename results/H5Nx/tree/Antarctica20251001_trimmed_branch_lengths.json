@@ -1,0 +1,1826 @@
+{
+  "alignment": "results/H5Nx/tree/Antarctica20251001_trimmed_aligned.fasta",
+  "clock": {
+    "intercept": -5.031005215520988,
+    "rate": 0.00249,
+    "rtt_Tmrca": 2020.4840222975856
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  },
+  "input_tree": "results/H5Nx/tree/Antarctica20251001_trimmed_tree_raw.nwk",
+  "nodes": {
+    "A/Antarctic_Fur_Seal/Jason_Harbour/141037/2023": {
+      "branch_length": 0.00022350580126406002,
+      "clock_length": 0.00022350580126406002,
+      "date": "2023-12-09",
+      "date_inferred": false,
+      "mutation_length": 0.00027722525244719117,
+      "numdate": 2023.9383561643835,
+      "raw_date": "2023-12-09"
+    },
+    "A/Antarctic_tern/King_Edward_Point/141271/2023": {
+      "branch_length": 8.006188373663181e-05,
+      "clock_length": 8.006188373663181e-05,
+      "date": "2023-12-06",
+      "date_inferred": false,
+      "mutation_length": 0.0001386352965136482,
+      "numdate": 2023.9301369863015,
+      "raw_date": "2023-12-06"
+    },
+    "A/Black_Skimmer/Maule/240379/2023": {
+      "branch_length": 0.0007150797374456119,
+      "clock_length": 0.0007150797374456119,
+      "date": "2023-03-06",
+      "date_inferred": false,
+      "mutation_length": 0.0008320927853912577,
+      "numdate": 2023.176712328767,
+      "raw_date": "2023-03-06"
+    },
+    "A/Brown_Skua/Bird_Island/141232/2023": {
+      "branch_length": 3.249210263387217e-05,
+      "clock_length": 3.249210263387217e-05,
+      "date": "2023-11-11",
+      "date_inferred": false,
+      "mutation_length": 0.00013863297123785527,
+      "numdate": 2023.8616438356164,
+      "raw_date": "2023-11-11"
+    },
+    "A/Brown_Skua/Gough_Island/047354/2024": {
+      "branch_length": 8.855383373711223e-05,
+      "clock_length": 8.855383373711223e-05,
+      "date": "2024-09-20",
+      "date_inferred": false,
+      "mutation_length": 0.00027727227784614454,
+      "numdate": 2024.7199453551912,
+      "raw_date": "2024-09-20"
+    },
+    "A/Brown_Skua/Gough_Island/047355/2024": {
+      "branch_length": 8.855383373711223e-05,
+      "clock_length": 8.855383373711223e-05,
+      "date": "2024-09-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.7199453551912,
+      "raw_date": "2024-09-20"
+    },
+    "A/Brown_Skua/Hound_Bay/133947/2023": {
+      "branch_length": 0.0003719668551329632,
+      "clock_length": 0.0003719668551329632,
+      "date": "2023-10-30",
+      "date_inferred": false,
+      "mutation_length": 0.0008320697297060306,
+      "numdate": 2023.8287671232877,
+      "raw_date": "2023-10-30"
+    },
+    "A/Brown_Skua/Hound_Bay/133949/2023": {
+      "branch_length": 0.0001646000497597614,
+      "clock_length": 0.0001646000497597614,
+      "date": "2023-10-30",
+      "date_inferred": false,
+      "mutation_length": 0.0001386105682187466,
+      "numdate": 2023.8287671232877,
+      "raw_date": "2023-10-30"
+    },
+    "A/Brown_Skua/Moltke_Harbour/133752/2023": {
+      "branch_length": 0.00017142196756788144,
+      "clock_length": 0.00017142196756788144,
+      "date": "2023-10-31",
+      "date_inferred": false,
+      "mutation_length": 0.00027725540110327236,
+      "numdate": 2023.831506849315,
+      "raw_date": "2023-10-31"
+    },
+    "A/Brown_Skua/Moltke_Harbour/133755/2023": {
+      "branch_length": 0.00036261207769922293,
+      "clock_length": 0.00036261207769922293,
+      "date": "2023-10-31",
+      "date_inferred": false,
+      "mutation_length": 0.00041591496633502207,
+      "numdate": 2023.831506849315,
+      "raw_date": "2023-10-31"
+    },
+    "A/Brown_Skua/Penguin_River/141236/2023": {
+      "branch_length": 7.5545876555623e-05,
+      "clock_length": 7.5545876555623e-05,
+      "date": "2023-11-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.8534246575343,
+      "raw_date": "2023-11-08"
+    },
+    "A/Brown_Skua/Penguin_River/141240/2023": {
+      "branch_length": 0.00022149371770964228,
+      "clock_length": 0.00022149371770964228,
+      "date": "2023-11-08",
+      "date_inferred": false,
+      "mutation_length": 0.0006935224037875282,
+      "numdate": 2023.8534246575343,
+      "raw_date": "2023-11-08"
+    },
+    "A/Brown_Skua/Torgersen_Island/o81-b82/2024": {
+      "branch_length": 0.000113653928334379,
+      "clock_length": 0.000113653928334379,
+      "date": "2024-12-17",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9603825136612,
+      "raw_date": "2024-12-17"
+    },
+    "A/Brown_skua/Bird_Island/128287/2023": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "2023-10-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.7684931510864,
+      "raw_date": "2023-10-08"
+    },
+    "A/Brown_skua/Bird_Island/128288/2023": {
+      "branch_length": 0,
+      "clock_length": 0,
+      "date": "2023-10-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.7684931510864,
+      "raw_date": "2023-10-08"
+    },
+    "A/Brown_skua/Bird_Island/128289/2023": {
+      "branch_length": 0.000196416968947709,
+      "clock_length": 0.000196416968947709,
+      "date": "2023-10-08",
+      "date_inferred": false,
+      "mutation_length": 0.00013860533050719708,
+      "numdate": 2023.768493150685,
+      "raw_date": "2023-10-08"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B1/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-12-10",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.941256830601,
+      "raw_date": "2024-12-10"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B2/2024": {
+      "branch_length": 0.00010204918032779425,
+      "clock_length": 0.00010204918032779425,
+      "date": "2024-12-25",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9822404371585,
+      "raw_date": "2024-12-25"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B3/2024": {
+      "branch_length": 0.00010885245901623864,
+      "clock_length": 0.00010885245901623864,
+      "date": "2024-12-26",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9849726775956,
+      "raw_date": "2024-12-26"
+    },
+    "A/Brown_skua/Fildes_Peninsula/F4/2024": {
+      "branch_length": 0.00010885245901623864,
+      "clock_length": 0.00010885245901623864,
+      "date": "2024-12-26",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9849726775956,
+      "raw_date": "2024-12-26"
+    },
+    "A/Brown_skua/Hope_Bay/SK02-30/2024": {
+      "branch_length": 0.0003906875475351585,
+      "clock_length": 0.0003906875475351585,
+      "date": "2024-03-18",
+      "date_inferred": false,
+      "mutation_length": 0.00041596828067188256,
+      "numdate": 2024.2117486338798,
+      "raw_date": "2024-03-18"
+    },
+    "A/Brown_skua/Torgersen_Island/o8182/2024": {
+      "branch_length": 4.801469318140364e-06,
+      "clock_length": 4.801469318140364e-06,
+      "date": "2024-12-01",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9166666666667,
+      "raw_date": "2024-12-01"
+    },
+    "A/Chile/25945/2023": {
+      "branch_length": 0.0002079214835842948,
+      "clock_length": 0.0002079214835842948,
+      "date": "2023-03-24",
+      "date_inferred": false,
+      "mutation_length": 0.0002772286447790592,
+      "numdate": 2023.2260273972602,
+      "raw_date": "2023-03-24"
+    },
+    "A/Guanay_cormorant/Peru/PIU-SER024/2022": {
+      "branch_length": 9.980136649260368e-05,
+      "clock_length": 9.980136649260368e-05,
+      "date": "2022-11-24",
+      "date_inferred": false,
+      "mutation_length": 0.00027722601803501266,
+      "numdate": 2022.8972602739725,
+      "raw_date": "2022-11-24"
+    },
+    "A/Kelp_Gull/Harpon_Bay/133943/2023": {
+      "branch_length": 0.00028052093379802613,
+      "clock_length": 0.00028052093379802613,
+      "date": "2023-11-03",
+      "date_inferred": false,
+      "mutation_length": 0.0006935095204331347,
+      "numdate": 2023.8397260273973,
+      "raw_date": "2023-11-03"
+    },
+    "A/Kelp_Gull/Hound_Bay/133744/2023": {
+      "branch_length": 0.00025323326256498045,
+      "clock_length": 0.00025323326256498045,
+      "date": "2023-10-30",
+      "date_inferred": false,
+      "mutation_length": 0.0004160245153087648,
+      "numdate": 2023.8287671232877,
+      "raw_date": "2023-10-30"
+    },
+    "A/Kelp_Gull/Hound_Bay/133747/2023": {
+      "branch_length": 0.0003719668551329632,
+      "clock_length": 0.0003719668551329632,
+      "date": "2023-10-30",
+      "date_inferred": false,
+      "mutation_length": 0.00041589585479576575,
+      "numdate": 2023.8287671232877,
+      "raw_date": "2023-10-30"
+    },
+    "A/Kelp_Gull/Moltke_Harbour/133754/2023": {
+      "branch_length": 0.0005295076678672166,
+      "clock_length": 0.0005295076678672166,
+      "date": "2023-10-31",
+      "date_inferred": false,
+      "mutation_length": 0.0005546410451772887,
+      "numdate": 2023.831506849315,
+      "raw_date": "2023-10-31"
+    },
+    "A/Kelp_Gull/Penguin_River/141234/2023": {
+      "branch_length": 0.00042790181688447636,
+      "clock_length": 0.00042790181688447636,
+      "date": "2023-11-08",
+      "date_inferred": false,
+      "mutation_length": 0.000138609218190669,
+      "numdate": 2023.8534246575343,
+      "raw_date": "2023-11-08"
+    },
+    "A/Kelp_Gull/Penguin_River/141239/2023": {
+      "branch_length": 0.0002135379554119958,
+      "clock_length": 0.0002135379554119958,
+      "date": "2023-11-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.8534246575343,
+      "raw_date": "2023-11-08"
+    },
+    "A/Pelican/Antofagasta/228246-2/2022": {
+      "branch_length": 0.00019244365830527882,
+      "clock_length": 0.00019244365830527882,
+      "date": "2022-12-15",
+      "date_inferred": false,
+      "mutation_length": 0.0006932650255885661,
+      "numdate": 2022.954794520548,
+      "raw_date": "2022-12-15"
+    },
+    "A/Procellaria_aequinoctialis/Sao_Paulo/2259-N/2023": {
+      "branch_length": 0.0006984703261670999,
+      "clock_length": 0.0006984703261670999,
+      "date": "2023-11-09",
+      "date_inferred": false,
+      "mutation_length": 0.0006932707952030772,
+      "numdate": 2023.8561643835617,
+      "raw_date": "2023-11-09"
+    },
+    "A/Sanderling/Peru/PIU-SER005/2022": {
+      "branch_length": 8.61575308763636e-05,
+      "clock_length": 8.61575308763636e-05,
+      "date": "2022-11-22",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2022.8917808219178,
+      "raw_date": "2022-11-22"
+    },
+    "A/Sea_Lion/Argentina/3893-1/2023": {
+      "branch_length": 2.019166982185957e-05,
+      "clock_length": 2.019166982185957e-05,
+      "date": "2023-08-11",
+      "date_inferred": false,
+      "mutation_length": 0.00013859910490224923,
+      "numdate": 2023.609589041096,
+      "raw_date": "2023-08-11"
+    },
+    "A/Skua/Beak_Island/SK09-147/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 0.00013861723896936237,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Skua/Beak_Island/SK10-155/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Skua/Beak_Island/SK11-164/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Skua/Beak_Island/SK12-173/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Skua/Beak_Island/SK12-174/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Skua/Beak_Island/SK13-180/2024": {
+      "branch_length": 2.7607527754385137e-05,
+      "clock_length": 2.7607527754385137e-05,
+      "date": "2024-03-21",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.2199453551912,
+      "raw_date": "2024-03-21"
+    },
+    "A/Skua/Beak_Island/SK17-184/2024": {
+      "branch_length": 2.7607527754385137e-05,
+      "clock_length": 2.7607527754385137e-05,
+      "date": "2024-03-21",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.2199453551912,
+      "raw_date": "2024-03-21"
+    },
+    "A/Skua/Devil_Island/SK07-51/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-03-19",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.214480874317,
+      "raw_date": "2024-03-19"
+    },
+    "A/Skua/Devil_Island/SK07-52/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-03-19",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.214480874317,
+      "raw_date": "2024-03-19"
+    },
+    "A/South_American_tern/Argentina/CH-PD037/2023": {
+      "branch_length": 0.0004295067383152818,
+      "clock_length": 0.0004295067383152818,
+      "date": "2023-10-10",
+      "date_inferred": false,
+      "mutation_length": 0.000554649541004399,
+      "numdate": 2023.7739726027398,
+      "raw_date": "2023-10-10"
+    },
+    "A/South_Georgia_Shag/King_Edward_Cove/141245/2023": {
+      "branch_length": 1.8664623462420413e-05,
+      "clock_length": 1.8664623462420413e-05,
+      "date": "2023-11-27",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.9054794520548,
+      "raw_date": "2023-11-27"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU1/2024": {
+      "branch_length": 4.5461571333751255e-05,
+      "clock_length": 4.5461571333751255e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 0.000277228419829979,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU2/2024": {
+      "branch_length": 3.248427459045557e-05,
+      "clock_length": 3.248427459045557e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 0.0001385995715859421,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU3/2024": {
+      "branch_length": 3.248427459045557e-05,
+      "clock_length": 3.248427459045557e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU4/2024": {
+      "branch_length": 7.20049895863448e-05,
+      "clock_length": 7.20049895863448e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5/2024": {
+      "branch_length": 7.20049895863448e-05,
+      "clock_length": 7.20049895863448e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5L/2024": {
+      "branch_length": 4.5461571333751255e-05,
+      "clock_length": 4.5461571333751255e-05,
+      "date": "2024-03-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.1707650273224,
+      "raw_date": "2024-03-03"
+    },
+    "A/South_polar_skua/Beak_Island/SK08-138/2024": {
+      "branch_length": 0.000358238398996482,
+      "clock_length": 0.000358238398996482,
+      "date": "2024-03-20",
+      "date_inferred": false,
+      "mutation_length": 0.00013863091584847949,
+      "numdate": 2024.217213114754,
+      "raw_date": "2024-03-20"
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141027/2023": {
+      "branch_length": 0.0004605592157504428,
+      "clock_length": 0.0004605592157504428,
+      "date": "2023-12-09",
+      "date_inferred": false,
+      "mutation_length": 0.000554611730830531,
+      "numdate": 2023.9383561643835,
+      "raw_date": "2023-12-09"
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141078/2023": {
+      "branch_length": 0.0004605592157504428,
+      "clock_length": 0.0004605592157504428,
+      "date": "2023-12-09",
+      "date_inferred": false,
+      "mutation_length": 0.0009708758171287334,
+      "numdate": 2023.9383561643835,
+      "raw_date": "2023-12-09"
+    },
+    "A/Southern_fulmar/Falkland_Islands/133789/2023": {
+      "branch_length": 0.0004835539795646727,
+      "clock_length": 0.0004835539795646727,
+      "date": "2023-10-30",
+      "date_inferred": false,
+      "mutation_length": 0.0006932673542145842,
+      "numdate": 2023.8287671232877,
+      "raw_date": "2023-10-30"
+    },
+    "A/antarctic_fur_seal/Antarctica/O2904-BR/2024": {
+      "branch_length": 0.0011541905488466186,
+      "clock_length": 0.0011541905488466186,
+      "date": "2024-12-09",
+      "date_inferred": false,
+      "mutation_length": 0.0016653263367467715,
+      "numdate": 2024.938524590164,
+      "raw_date": "2024-12-09"
+    },
+    "A/antarctic_fur_seal/Antarctica/O2913-BR/2024": {
+      "branch_length": 0.003267259908152035,
+      "clock_length": 0.003267259908152035,
+      "date": "2024-12-12",
+      "date_inferred": false,
+      "mutation_length": 0.0023599323361792298,
+      "numdate": 2024.9467213114754,
+      "raw_date": "2024-12-12"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-BR/2024": {
+      "branch_length": 2.6336843548757823e-05,
+      "clock_length": 2.6336843548757823e-05,
+      "date": "2024-12-04",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9248633879781,
+      "raw_date": "2024-12-04"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-NS/2024": {
+      "branch_length": 2.6336843548757823e-05,
+      "clock_length": 2.6336843548757823e-05,
+      "date": "2024-12-04",
+      "date_inferred": false,
+      "mutation_length": 0.00013861496604609388,
+      "numdate": 2024.9248633879781,
+      "raw_date": "2024-12-04"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-OR/2024": {
+      "branch_length": 2.6336843548757823e-05,
+      "clock_length": 2.6336843548757823e-05,
+      "date": "2024-12-04",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9248633879781,
+      "raw_date": "2024-12-04"
+    },
+    "A/black_skimmer/Chile/C61962/2022": {
+      "branch_length": 0.00024553573928560654,
+      "clock_length": 0.00024553573928560654,
+      "date": "2022-12-02",
+      "date_inferred": false,
+      "mutation_length": 0.00041588275518636447,
+      "numdate": 2022.9191780821918,
+      "raw_date": "2022-12-02"
+    },
+    "A/bobcat/Wisconsin/22-016051-001/2022": {
+      "branch_length": 0.00209610854197923,
+      "clock_length": 0.00209610854197923,
+      "date": "2022-05-24",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2022.3931506849315,
+      "raw_date": "2022-05-24"
+    },
+    "A/brown_skua/Crozet/24P023412/2024": {
+      "branch_length": 0.000382420124988736,
+      "clock_length": 0.000382420124988736,
+      "date": "2024-11-14",
+      "date_inferred": false,
+      "mutation_length": 0.000277474822395468,
+      "numdate": 2024.870218579235,
+      "raw_date": "2024-11-14"
+    },
+    "A/brown_skua/Kerguelen/24P023443/2024": {
+      "branch_length": 0.00017747775234836123,
+      "clock_length": 0.00017747775234836123,
+      "date": "2024-12-02",
+      "date_inferred": false,
+      "mutation_length": 0.00027730898804431437,
+      "numdate": 2024.9193989071039,
+      "raw_date": "2024-12-02"
+    },
+    "A/brown_skua/Kerguelen/24P023446/2024": {
+      "branch_length": 0.0002892406507841402,
+      "clock_length": 0.0002892406507841402,
+      "date": "2024-12-01",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9166666666667,
+      "raw_date": "2024-12-01"
+    },
+    "A/cape_petrel/Crozet/24P023427/2024": {
+      "branch_length": 0.00043684635449685533,
+      "clock_length": 0.00043684635449685533,
+      "date": "2024-11-22",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.8920765027322,
+      "raw_date": "2024-11-22"
+    },
+    "A/chicken/Atacama/235254-2/2023": {
+      "branch_length": 0.0006089688916198462,
+      "clock_length": 0.0006089688916198462,
+      "date": "2023-02-04",
+      "date_inferred": false,
+      "mutation_length": 0.0005545595300322143,
+      "numdate": 2023.0945205479452,
+      "raw_date": "2023-02-04"
+    },
+    "A/chicken/Metropolitana/243148-1/2023": {
+      "branch_length": 0.00017743460386042235,
+      "clock_length": 0.00017743460386042235,
+      "date": "2023-03-20",
+      "date_inferred": false,
+      "mutation_length": 0.00027724156853191004,
+      "numdate": 2023.2150684931507,
+      "raw_date": "2023-03-20"
+    },
+    "A/chicken/OHiggins/241252-1/2023": {
+      "branch_length": 0.000122859261394331,
+      "clock_length": 0.000122859261394331,
+      "date": "2023-03-12",
+      "date_inferred": false,
+      "mutation_length": 0.0002772464543409726,
+      "numdate": 2023.1931506849314,
+      "raw_date": "2023-03-12"
+    },
+    "A/chicken/OHiggins/241252-3/2023": {
+      "branch_length": 0.000122859261394331,
+      "clock_length": 0.000122859261394331,
+      "date": "2023-03-12",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.1931506849314,
+      "raw_date": "2023-03-12"
+    },
+    "A/chicken/OHiggins/241252-6/2023": {
+      "branch_length": 0.000122859261394331,
+      "clock_length": 0.000122859261394331,
+      "date": "2023-03-12",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.1931506849314,
+      "raw_date": "2023-03-12"
+    },
+    "A/environment/Chile/C62044/2022": {
+      "branch_length": 0.000320576835176058,
+      "clock_length": 0.000320576835176058,
+      "date": "2022-12-13",
+      "date_inferred": false,
+      "mutation_length": 0.00041588272504428683,
+      "numdate": 2022.9493150684932,
+      "raw_date": "2022-12-13"
+    },
+    "A/kelp_gull/Antartica/O2601-CL/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-01-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.0204918032787,
+      "raw_date": "2024-01-08"
+    },
+    "A/kelp_gull/Kerguelen/24P023440/2024": {
+      "branch_length": 0.0002892406507841402,
+      "clock_length": 0.0002892406507841402,
+      "date": "2024-12-01",
+      "date_inferred": false,
+      "mutation_length": 0.0002775448757769347,
+      "numdate": 2024.9166666666667,
+      "raw_date": "2024-12-01"
+    },
+    "A/kelp_gull/South_Shetland_Islands/10272/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-01-08",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.0204918032787,
+      "raw_date": "2024-01-08"
+    },
+    "A/king_penguin/Crozet/24P021412/2024": {
+      "branch_length": 1.2822263011796377e-05,
+      "clock_length": 1.2822263011796377e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/king_penguin/Crozet/24P021416/2024": {
+      "branch_length": 1.2822263011796377e-05,
+      "clock_length": 1.2822263011796377e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/king_penguin/Crozet/24P023398/2024": {
+      "branch_length": 0.00033479717416906064,
+      "clock_length": 0.00033479717416906064,
+      "date": "2024-11-07",
+      "date_inferred": false,
+      "mutation_length": 0.0002773515349813062,
+      "numdate": 2024.8510928961748,
+      "raw_date": "2024-11-07"
+    },
+    "A/king_penguin/Crozet/24P023407/2024": {
+      "branch_length": 0.00034160045285750503,
+      "clock_length": 0.00034160045285750503,
+      "date": "2024-11-08",
+      "date_inferred": false,
+      "mutation_length": 0.0005548494772193615,
+      "numdate": 2024.853825136612,
+      "raw_date": "2024-11-08"
+    },
+    "A/king_penguin/Crozet/24P023414/2024": {
+      "branch_length": 0.0001751823507736231,
+      "clock_length": 0.0001751823507736231,
+      "date": "2024-11-11",
+      "date_inferred": false,
+      "mutation_length": 0.00027739903528054374,
+      "numdate": 2024.8620218579235,
+      "raw_date": "2024-11-11"
+    },
+    "A/pinniped/Uruguay/P10_8923/2023": {
+      "branch_length": 0.00013851085173822043,
+      "clock_length": 0.00013851085173822043,
+      "date": "2023-09-08",
+      "date_inferred": false,
+      "mutation_length": 0.00013859747516019585,
+      "numdate": 2023.686301369863,
+      "raw_date": "2023-09-08"
+    },
+    "A/pinniped/Uruguay/P13_11923/2023": {
+      "branch_length": 3.84631751483757e-05,
+      "clock_length": 3.84631751483757e-05,
+      "date": "2023-09-11",
+      "date_inferred": false,
+      "mutation_length": 0.00013860603657072306,
+      "numdate": 2023.694520547945,
+      "raw_date": "2023-09-11"
+    },
+    "A/pinniped/Uruguay/P14_11923/2023": {
+      "branch_length": 3.84631751483757e-05,
+      "clock_length": 3.84631751483757e-05,
+      "date": "2023-09-11",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.694520547945,
+      "raw_date": "2023-09-11"
+    },
+    "A/pinniped/Uruguay/P4_6923/2023": {
+      "branch_length": 0.00012486701612198035,
+      "clock_length": 0.00012486701612198035,
+      "date": "2023-09-06",
+      "date_inferred": false,
+      "mutation_length": 0.0002772140654556018,
+      "numdate": 2023.6808219178083,
+      "raw_date": "2023-09-06"
+    },
+    "A/pintado_petrel/Antarctica/O3121-CL/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-12-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.922131147541,
+      "raw_date": "2024-12-03"
+    },
+    "A/pintado_petrel/Antarctica/O3121-OR/2024": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2024-12-03",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.922131147541,
+      "raw_date": "2024-12-03"
+    },
+    "A/royal_tern/Argentina/CH-PD036/2023": {
+      "branch_length": 0.00035681222160145395,
+      "clock_length": 0.00035681222160145395,
+      "date": "2023-10-10",
+      "date_inferred": false,
+      "mutation_length": 0.0005547086550336909,
+      "numdate": 2023.7739726027398,
+      "raw_date": "2023-10-10"
+    },
+    "A/sea_lion/Tarapaca/245719-10/2023": {
+      "branch_length": 0.00024885299043414695,
+      "clock_length": 0.00024885299043414695,
+      "date": "2023-03-30",
+      "date_inferred": false,
+      "mutation_length": 0.0005545503287175707,
+      "numdate": 2023.2424657534248,
+      "raw_date": "2023-03-30"
+    },
+    "A/skua/Antarctica/O3575-OR/2025": {
+      "branch_length": 0.0008636943961900009,
+      "clock_length": 0.0008636943961900009,
+      "date": "2025-02-23",
+      "date_inferred": false,
+      "mutation_length": 0.00041589891205073755,
+      "numdate": 2025.1465753424657,
+      "raw_date": "2025-02-23"
+    },
+    "A/skua/Antarctica/O3577-CL/2025": {
+      "branch_length": 0.0001039727294246495,
+      "clock_length": 0.0001039727294246495,
+      "date": "2025-02-25",
+      "date_inferred": false,
+      "mutation_length": 0.00013863030589953256,
+      "numdate": 2025.1520547945206,
+      "raw_date": "2025-02-25"
+    },
+    "A/skua/Antarctica/O3577-OR/2025": {
+      "branch_length": 0.0001039727294246495,
+      "clock_length": 0.0001039727294246495,
+      "date": "2025-02-25",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.1520547945206,
+      "raw_date": "2025-02-25"
+    },
+    "A/skua/Antarctica/O3588-CL/2025": {
+      "branch_length": 0.0006083721802441042,
+      "clock_length": 0.0006083721802441042,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/skua/Antarctica/O3589-CL/2025": {
+      "branch_length": 4.546157133375169e-05,
+      "clock_length": 4.546157133375169e-05,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/skua/Antarctica/O3589-OR/2025": {
+      "branch_length": 4.546157133375169e-05,
+      "clock_length": 4.546157133375169e-05,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/skua/Antarctica/O3592-CL/2025": {
+      "branch_length": 0.00019727935116484966,
+      "clock_length": 0.00019727935116484966,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/skua/Antarctica/O3592-OR/2025": {
+      "branch_length": 0.00019727935116484966,
+      "clock_length": 0.00019727935116484966,
+      "date": "2025-02-28",
+      "date_inferred": false,
+      "mutation_length": 0.0004158721500181287,
+      "numdate": 2025.1602739726027,
+      "raw_date": "2025-02-28"
+    },
+    "A/skua/Antarctica/O3610-OR/2025": {
+      "branch_length": 0.0009319135742723323,
+      "clock_length": 0.0009319135742723323,
+      "date": "2025-03-05",
+      "date_inferred": false,
+      "mutation_length": 0.0008320656913145822,
+      "numdate": 2025.1739726027397,
+      "raw_date": "2025-03-05"
+    },
+    "A/skua/Curverville/INT.OE5.146/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-12-11",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9439890710382,
+      "raw_date": "2024-12-11"
+    },
+    "A/skua/Curverville/INT.OE5.147/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-12-11",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9439890710382,
+      "raw_date": "2024-12-11"
+    },
+    "A/skua/Curverville/INT.OE5.148/2024": {
+      "branch_length": 6.819235700062732e-05,
+      "clock_length": 6.819235700062732e-05,
+      "date": "2024-12-11",
+      "date_inferred": false,
+      "mutation_length": 0.00013866280907789532,
+      "numdate": 2024.9439890710382,
+      "raw_date": "2024-12-11"
+    },
+    "A/skua/Curverville/INT.OE5.149/2024": {
+      "branch_length": 9.336333429186845e-05,
+      "clock_length": 9.336333429186845e-05,
+      "date": "2024-12-11",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9439890710382,
+      "raw_date": "2024-12-11"
+    },
+    "A/skua/Curverville/INT.OE5.150/2024": {
+      "branch_length": 6.819235700062732e-05,
+      "clock_length": 6.819235700062732e-05,
+      "date": "2024-12-11",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9439890710382,
+      "raw_date": "2024-12-11"
+    },
+    "A/skua/Curverville/INT.OE5.266/2024": {
+      "branch_length": 1.1367143957820899e-05,
+      "clock_length": 1.1367143957820899e-05,
+      "date": "2024-12-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9193989071039,
+      "raw_date": "2024-12-02"
+    },
+    "A/skua/Curverville/INT.OE5.267/2024": {
+      "branch_length": 1.1367143957820899e-05,
+      "clock_length": 1.1367143957820899e-05,
+      "date": "2024-12-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9193989071039,
+      "raw_date": "2024-12-02"
+    },
+    "A/skua/Curverville/INT.OE5.271/2025": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2025-01-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.004109589041,
+      "raw_date": "2025-01-02"
+    },
+    "A/skua/Curverville/INT.OE5.273/2025": {
+      "branch_length": 0.00022229674198136814,
+      "clock_length": 0.00022229674198136814,
+      "date": "2025-01-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.004109589041,
+      "raw_date": "2025-01-02"
+    },
+    "A/skua/Curverville/INT.OE5.275/2025": {
+      "branch_length": 0.00022229674198136814,
+      "clock_length": 0.00022229674198136814,
+      "date": "2025-01-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.004109589041,
+      "raw_date": "2025-01-02"
+    },
+    "A/skua/Curverville/INT.OE5.278/2025": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2025-01-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.004109589041,
+      "raw_date": "2025-01-02"
+    },
+    "A/skua/Curverville/INT.OE5.281/2025": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2025-01-02",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2025.004109589041,
+      "raw_date": "2025-01-02"
+    },
+    "A/skua/Yalours/INT.OE5.379/2025": {
+      "branch_length": 0.0022535726023295874,
+      "clock_length": 0.0022535726023295874,
+      "date": "2025-02-11",
+      "date_inferred": false,
+      "mutation_length": 0.0011097041520086999,
+      "numdate": 2025.113698630137,
+      "raw_date": "2025-02-11"
+    },
+    "A/southern_elephant_seal/Argentina/CH-PD035/2023": {
+      "branch_length": 0.0004295067383152818,
+      "clock_length": 0.0004295067383152818,
+      "date": "2023-10-10",
+      "date_inferred": false,
+      "mutation_length": 0.00013860147253226502,
+      "numdate": 2023.7739726027398,
+      "raw_date": "2023-10-10"
+    },
+    "A/southern_elephant_seal/Crozet/24P021402/2024": {
+      "branch_length": 1.2822263011796377e-05,
+      "clock_length": 1.2822263011796377e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 0.00013868370933551439,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021403/2024": {
+      "branch_length": 2.6338092245396967e-05,
+      "clock_length": 2.6338092245396967e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 0.00013862153813366725,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021404/2024": {
+      "branch_length": 2.6338092245396967e-05,
+      "clock_length": 2.6338092245396967e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021407/2024": {
+      "branch_length": 2.6338092245396967e-05,
+      "clock_length": 2.6338092245396967e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021415/2024": {
+      "branch_length": 1.2822263011796377e-05,
+      "clock_length": 1.2822263011796377e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021417/2024": {
+      "branch_length": 6.819235700062732e-05,
+      "clock_length": 6.819235700062732e-05,
+      "date": "2024-10-20",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.801912568306,
+      "raw_date": "2024-10-20"
+    },
+    "A/southern_elephant_seal/Crozet/24P021420/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-10-27",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.8210382513662,
+      "raw_date": "2024-10-27"
+    },
+    "A/southern_elephant_seal/Crozet/24P021422/2024": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2024-10-27",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.8210382513662,
+      "raw_date": "2024-10-27"
+    },
+    "A/southern_elephant_seal/Crozet/24P023401/2024": {
+      "branch_length": 0.00033479717416906064,
+      "clock_length": 0.00033479717416906064,
+      "date": "2024-11-07",
+      "date_inferred": false,
+      "mutation_length": 0.0006935785469972105,
+      "numdate": 2024.8510928961748,
+      "raw_date": "2024-11-07"
+    },
+    "A/southern_elephant_seal/Crozet/24P023403/2024": {
+      "branch_length": 0.0003279938954806167,
+      "clock_length": 0.0003279938954806167,
+      "date": "2024-11-06",
+      "date_inferred": false,
+      "mutation_length": 0.0005552256627899087,
+      "numdate": 2024.8483606557377,
+      "raw_date": "2024-11-06"
+    },
+    "A/southern_elephant_seal/Crozet/24P023417/2024": {
+      "branch_length": 0.0001819856294620675,
+      "clock_length": 0.0001819856294620675,
+      "date": "2024-11-12",
+      "date_inferred": false,
+      "mutation_length": 0.0002773613900695634,
+      "numdate": 2024.8647540983607,
+      "raw_date": "2024-11-12"
+    },
+    "A/southern_elephant_seal/Crozet/24P023419/2024": {
+      "branch_length": 0.0001819856294620675,
+      "clock_length": 0.0001819856294620675,
+      "date": "2024-11-12",
+      "date_inferred": false,
+      "mutation_length": 0.0004159671530561544,
+      "numdate": 2024.8647540983607,
+      "raw_date": "2024-11-12"
+    },
+    "A/southern_elephant_seal/Crozet/24P023422/2024": {
+      "branch_length": 0.00019651078760205302,
+      "clock_length": 0.00019651078760205302,
+      "date": "2024-11-16",
+      "date_inferred": false,
+      "mutation_length": 0.00027736093782572413,
+      "numdate": 2024.8756830601094,
+      "raw_date": "2024-11-16"
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023433/2024": {
+      "branch_length": 0.00017067447365991728,
+      "clock_length": 0.00017067447365991728,
+      "date": "2024-12-01",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2024.9166666666667,
+      "raw_date": "2024-12-01"
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023439/2024": {
+      "branch_length": 0.0002892406507841402,
+      "clock_length": 0.0002892406507841402,
+      "date": "2024-12-01",
+      "date_inferred": false,
+      "mutation_length": 0.000138662518626358,
+      "numdate": 2024.9166666666667,
+      "raw_date": "2024-12-01"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "2021-07-21",
+      "date_inferred": true,
+      "mutation_length": 0.001,
+      "numdate": 2021.551340025502
+    },
+    "NODE_0000001": {
+      "branch_length": 0.0029455888915603124,
+      "clock_length": 0.0029455888915603124,
+      "date": "2022-09-26",
+      "date_inferred": true,
+      "mutation_length": 0.005848036113930072,
+      "numdate": 2022.7343074518315
+    },
+    "NODE_0000002": {
+      "branch_length": 0.0003059511606384943,
+      "clock_length": 0.0003059511606384943,
+      "date": "2022-11-09",
+      "date_inferred": true,
+      "mutation_length": 0.0005545485451955836,
+      "numdate": 2022.857179403895
+    },
+    "NODE_0000003": {
+      "branch_length": 4.4721691036216335e-05,
+      "clock_length": 4.4721691036216335e-05,
+      "date": "2022-10-02",
+      "date_inferred": true,
+      "mutation_length": 0.00013859850868936426,
+      "numdate": 2022.75226797032
+    },
+    "NODE_0000004": {
+      "branch_length": 0.00017007043927536565,
+      "clock_length": 0.00017007043927536565,
+      "date": "2022-10-27",
+      "date_inferred": true,
+      "mutation_length": 0.00041587531861275067,
+      "numdate": 2022.820569351555
+    },
+    "NODE_0000006": {
+      "branch_length": 7.316958739166285e-05,
+      "clock_length": 7.316958739166285e-05,
+      "date": "2022-11-07",
+      "date_inferred": true,
+      "mutation_length": 0.0002772212434701158,
+      "numdate": 2022.8499547280176
+    },
+    "NODE_0000007": {
+      "branch_length": 6.860742509535726e-05,
+      "clock_length": 6.860742509535726e-05,
+      "date": "2022-11-17",
+      "date_inferred": true,
+      "mutation_length": 0.0002772166325801209,
+      "numdate": 2022.8775079107868
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00037106252462275373,
+      "clock_length": 0.00037106252462275373,
+      "date": "2023-01-10",
+      "date_inferred": true,
+      "mutation_length": 0.000554530577401746,
+      "numdate": 2023.0265290050127
+    },
+    "NODE_0000009": {
+      "branch_length": 0.00028882951311172574,
+      "clock_length": 0.00028882951311172574,
+      "date": "2023-02-22",
+      "date_inferred": true,
+      "mutation_length": 0.0002772121567497118,
+      "numdate": 2023.142524793411
+    },
+    "NODE_0000012": {
+      "branch_length": 0.00011250017058028663,
+      "clock_length": 0.00011250017058028663,
+      "date": "2023-03-10",
+      "date_inferred": true,
+      "mutation_length": 0.00013859408748873403,
+      "numdate": 2023.1877055848088
+    },
+    "NODE_0000013": {
+      "branch_length": 0.0011126892512477952,
+      "clock_length": 0.0011126892512477952,
+      "date": "2023-08-20",
+      "date_inferred": true,
+      "mutation_length": 0.0006934160140305641,
+      "numdate": 2023.6345687379203
+    },
+    "NODE_0000014": {
+      "branch_length": 0.0008597217882494786,
+      "clock_length": 0.0008597217882494786,
+      "date": "2023-07-14",
+      "date_inferred": true,
+      "mutation_length": 0.00013859403856142813,
+      "numdate": 2023.5329753792864
+    },
+    "NODE_0000015": {
+      "branch_length": 0.00010627029447822078,
+      "clock_length": 0.00010627029447822078,
+      "date": "2023-07-30",
+      "date_inferred": true,
+      "mutation_length": 0.00013859408748873403,
+      "numdate": 2023.5756542124102
+    },
+    "NODE_0000016": {
+      "branch_length": 3.348411570340552e-05,
+      "clock_length": 3.348411570340552e-05,
+      "date": "2023-08-04",
+      "date_inferred": true,
+      "mutation_length": 0.00013859991283345723,
+      "numdate": 2023.5891016484356
+    },
+    "NODE_0000017": {
+      "branch_length": 0.00043759789055039083,
+      "clock_length": 0.00043759789055039083,
+      "date": "2023-10-07",
+      "date_inferred": true,
+      "mutation_length": 0.0004158654490621715,
+      "numdate": 2023.7648437731548
+    },
+    "NODE_0000018": {
+      "branch_length": 0.0006365635950085916,
+      "clock_length": 0.0006365635950085916,
+      "date": "2024-01-08",
+      "date_inferred": true,
+      "mutation_length": 0.0006932306915151605,
+      "numdate": 2024.0204918032787
+    },
+    "NODE_0000019": {
+      "branch_length": 3.0821937901984696e-05,
+      "clock_length": 3.0821937901984696e-05,
+      "date": "2023-08-08",
+      "date_inferred": true,
+      "mutation_length": 0.00013860371358002707,
+      "numdate": 2023.6014799367497
+    },
+    "NODE_0000022": {
+      "branch_length": 0.00010467095196398189,
+      "clock_length": 0.00010467095196398189,
+      "date": "2023-07-29",
+      "date_inferred": true,
+      "mutation_length": 0.00013859408748873403,
+      "numdate": 2023.5750119061797
+    },
+    "NODE_0000023": {
+      "branch_length": 0.00013859991283345693,
+      "clock_length": 0.00013859991283345693,
+      "date": "2023-08-19",
+      "date_inferred": true,
+      "mutation_length": 0.00013859991283345723,
+      "numdate": 2023.6306745217753
+    },
+    "NODE_0000026": {
+      "branch_length": 0.00012051343001420398,
+      "clock_length": 0.00012051343001420398,
+      "date": "2023-09-05",
+      "date_inferred": true,
+      "mutation_length": 0.00013859741945147818,
+      "numdate": 2023.6790734896526
+    },
+    "NODE_0000028": {
+      "branch_length": 0.0003372653241818695,
+      "clock_length": 0.0003372653241818695,
+      "date": "2023-10-07",
+      "date_inferred": true,
+      "mutation_length": 0.00013859747516019585,
+      "numdate": 2023.7661224431336
+    },
+    "NODE_0000029": {
+      "branch_length": 0.001765090797259092,
+      "clock_length": 0.001765090797259092,
+      "date": "2024-06-22",
+      "date_inferred": true,
+      "mutation_length": 0.0018040868817127522,
+      "numdate": 2024.4749942492617
+    },
+    "NODE_0000030": {
+      "branch_length": 0.0010938373118550737,
+      "clock_length": 0.0010938373118550737,
+      "date": "2024-11-30",
+      "date_inferred": true,
+      "mutation_length": 0.000693328249704619,
+      "numdate": 2024.9142863423763
+    },
+    "NODE_0000032": {
+      "branch_length": 0.001114924302747961,
+      "clock_length": 0.001114924302747961,
+      "date": "2024-03-19",
+      "date_inferred": true,
+      "mutation_length": 0.0006932544365524354,
+      "numdate": 2024.2138832072894
+    },
+    "NODE_0000033": {
+      "branch_length": 0.0014587090203989515,
+      "clock_length": 0.0014587090203989515,
+      "date": "2024-10-19",
+      "date_inferred": true,
+      "mutation_length": 0.0008320439356987488,
+      "numdate": 2024.7997101231122
+    },
+    "NODE_0000034": {
+      "branch_length": 0.0021592336544652684,
+      "clock_length": 0.0021592336544652684,
+      "date": "2025-01-30",
+      "date_inferred": true,
+      "mutation_length": 0.0022209169695288074,
+      "numdate": 2025.0810453175163
+    },
+    "NODE_0000035": {
+      "branch_length": 0.0003417867150876906,
+      "clock_length": 0.0003417867150876906,
+      "date": "2022-11-21",
+      "date_inferred": true,
+      "mutation_length": 0.0005545832247927363,
+      "numdate": 2022.889531711319
+    },
+    "NODE_0000036": {
+      "branch_length": 0.0003218755184564665,
+      "clock_length": 0.0003218755184564665,
+      "date": "2023-01-07",
+      "date_inferred": true,
+      "mutation_length": 0.00041591275789110187,
+      "numdate": 2023.0187989878075
+    },
+    "NODE_0000037": {
+      "branch_length": 0.00031127646444410045,
+      "clock_length": 0.00031127646444410045,
+      "date": "2023-02-22",
+      "date_inferred": true,
+      "mutation_length": 0.00013860864254859557,
+      "numdate": 2023.1438096160985
+    },
+    "NODE_0000040": {
+      "branch_length": 0.0014451278015641918,
+      "clock_length": 0.0014451278015641918,
+      "date": "2023-08-07",
+      "date_inferred": true,
+      "mutation_length": 0.0027776165465960225,
+      "numdate": 2023.5991715988775
+    },
+    "NODE_0000041": {
+      "branch_length": 0.0003127819779637053,
+      "clock_length": 0.0003127819779637053,
+      "date": "2023-09-22",
+      "date_inferred": true,
+      "mutation_length": 0.0005547741095864423,
+      "numdate": 2023.7247868510717
+    },
+    "NODE_0000042": {
+      "branch_length": 9.881442038213364e-05,
+      "clock_length": 9.881442038213364e-05,
+      "date": "2023-10-07",
+      "date_inferred": true,
+      "mutation_length": 0.0002772694794531717,
+      "numdate": 2023.7644713572492
+    },
+    "NODE_0000044": {
+      "branch_length": 0.002290576421138023,
+      "clock_length": 0.002290576421138023,
+      "date": "2024-09-07",
+      "date_inferred": true,
+      "mutation_length": 0.0012488765177003746,
+      "numdate": 2024.6843815665418
+    },
+    "NODE_0000045": {
+      "branch_length": 0.0025797256696652015,
+      "clock_length": 0.0025797256696652015,
+      "date": "2024-10-19",
+      "date_inferred": true,
+      "mutation_length": 0.0008321429794775709,
+      "numdate": 2024.8005057627374
+    },
+    "NODE_0000048": {
+      "branch_length": 0.00011856617712422291,
+      "clock_length": 0.00011856617712422291,
+      "date": "2024-11-06",
+      "date_inferred": true,
+      "mutation_length": 0.00013862259995394644,
+      "numdate": 2024.8481227013415
+    },
+    "NODE_0000049": {
+      "branch_length": 0.0024697048781374903,
+      "clock_length": 0.0024697048781374903,
+      "date": "2024-09-19",
+      "date_inferred": true,
+      "mutation_length": 0.0016652628556826589,
+      "numdate": 2024.7166361997213
+    },
+    "NODE_0000056": {
+      "branch_length": 0.00025996110859560903,
+      "clock_length": 0.00025996110859560903,
+      "date": "2024-10-27",
+      "date_inferred": true,
+      "mutation_length": 0.00013862412097430735,
+      "numdate": 2024.8210382513662
+    },
+    "NODE_0000058": {
+      "branch_length": 0.00018682793814978017,
+      "clock_length": 0.00018682793814978017,
+      "date": "2024-10-16",
+      "date_inferred": true,
+      "mutation_length": 0.0002772772658298509,
+      "numdate": 2024.7916675001832
+    },
+    "NODE_0000060": {
+      "branch_length": 0.00014414580077530634,
+      "clock_length": 0.00014414580077530634,
+      "date": "2024-10-10",
+      "date_inferred": true,
+      "mutation_length": 0.00013862388957539145,
+      "numdate": 2024.7745260795507
+    },
+    "NODE_0000061": {
+      "branch_length": 4.185426475523035e-05,
+      "clock_length": 4.185426475523035e-05,
+      "date": "2024-10-16",
+      "date_inferred": true,
+      "mutation_length": 0.0001386240641400297,
+      "numdate": 2024.7913350212195
+    },
+    "NODE_0000064": {
+      "branch_length": 1.351582923360067e-05,
+      "clock_length": 1.351582923360067e-05,
+      "date": "2024-10-18",
+      "date_inferred": true,
+      "mutation_length": 0.00013862388957539145,
+      "numdate": 2024.7967630650885
+    },
+    "NODE_0000068": {
+      "branch_length": 4.900710572217342e-05,
+      "clock_length": 4.900710572217342e-05,
+      "date": "2023-08-14",
+      "date_inferred": true,
+      "mutation_length": 0.00013861296362525357,
+      "numdate": 2023.6188531674406
+    },
+    "NODE_0000070": {
+      "branch_length": 7.027509056790104e-05,
+      "clock_length": 7.027509056790104e-05,
+      "date": "2023-08-25",
+      "date_inferred": true,
+      "mutation_length": 0.00013864367310490575,
+      "numdate": 2023.6470760953796
+    },
+    "NODE_0000071": {
+      "branch_length": 0.000264728156069512,
+      "clock_length": 0.000264728156069512,
+      "date": "2023-10-02",
+      "date_inferred": true,
+      "mutation_length": 0.00041591466584619006,
+      "numdate": 2023.7533926239216
+    },
+    "NODE_0000072": {
+      "branch_length": 8.590610288093051e-05,
+      "clock_length": 8.590610288093051e-05,
+      "date": "2023-09-06",
+      "date_inferred": true,
+      "mutation_length": 0.00013860918822665175,
+      "numdate": 2023.6815765383037
+    },
+    "NODE_0000073": {
+      "branch_length": 0.00021436386147248056,
+      "clock_length": 0.00021436386147248056,
+      "date": "2023-10-08",
+      "date_inferred": true,
+      "mutation_length": 0.0005545822626740343,
+      "numdate": 2023.7676664425094
+    },
+    "NODE_0000074": {
+      "branch_length": 9.953005510441454e-05,
+      "clock_length": 9.953005510441454e-05,
+      "date": "2023-10-22",
+      "date_inferred": true,
+      "mutation_length": 0.0002772330346476082,
+      "numdate": 2023.80763835219
+    },
+    "NODE_0000075": {
+      "branch_length": 0.00022495971520113817,
+      "clock_length": 0.00022495971520113817,
+      "date": "2023-11-24",
+      "date_inferred": true,
+      "mutation_length": 0.00013863531209965308,
+      "numdate": 2023.897983619339
+    },
+    "NODE_0000076": {
+      "branch_length": 3.8462023751957946e-05,
+      "clock_length": 3.8462023751957946e-05,
+      "date": "2023-10-28",
+      "date_inferred": true,
+      "mutation_length": 0.000138601887394443,
+      "numdate": 2023.8230849480742
+    },
+    "NODE_0000077": {
+      "branch_length": 6.351952734611095e-05,
+      "clock_length": 6.351952734611095e-05,
+      "date": "2023-11-06",
+      "date_inferred": true,
+      "mutation_length": 0.000277237369381786,
+      "numdate": 2023.848594798414
+    },
+    "NODE_0000078": {
+      "branch_length": 0.0001668955901679937,
+      "clock_length": 0.0001668955901679937,
+      "date": "2023-09-08",
+      "date_inferred": true,
+      "mutation_length": 0.0004159291259848096,
+      "numdate": 2023.6858795088735
+    },
+    "NODE_0000080": {
+      "branch_length": 0.00010255689732612256,
+      "clock_length": 0.00010255689732612256,
+      "date": "2023-09-23",
+      "date_inferred": true,
+      "mutation_length": 0.000277252027187293,
+      "numdate": 2023.7270670178398
+    },
+    "NODE_0000081": {
+      "branch_length": 0.0005450874868481014,
+      "clock_length": 0.0005450874868481014,
+      "date": "2023-11-27",
+      "date_inferred": true,
+      "mutation_length": 0.0008321096845522088,
+      "numdate": 2023.904790146162
+    },
+    "NODE_0000082": {
+      "branch_length": 0.00041969479279777965,
+      "clock_length": 0.00041969479279777965,
+      "date": "2024-01-27",
+      "date_inferred": true,
+      "mutation_length": 0.0004159083773516328,
+      "numdate": 2024.0733422717835
+    },
+    "NODE_0000083": {
+      "branch_length": 0.00017057767170545416,
+      "clock_length": 0.00017057767170545416,
+      "date": "2024-02-21",
+      "date_inferred": true,
+      "mutation_length": 0.0002772333076286047,
+      "numdate": 2024.1418473608219
+    },
+    "NODE_0000084": {
+      "branch_length": 3.952071499588924e-05,
+      "clock_length": 3.952071499588924e-05,
+      "date": "2024-02-27",
+      "date_inferred": true,
+      "mutation_length": 0.000138599453743169,
+      "numdate": 2024.1577191339127
+    },
+    "NODE_0000086": {
+      "branch_length": 2.654341825259355e-05,
+      "clock_length": 2.654341825259355e-05,
+      "date": "2024-02-25",
+      "date_inferred": true,
+      "mutation_length": 0.00013859962068839688,
+      "numdate": 2024.1525073681523
+    },
+    "NODE_0000088": {
+      "branch_length": 0.00037363908688221436,
+      "clock_length": 0.00037363908688221436,
+      "date": "2024-01-21",
+      "date_inferred": true,
+      "mutation_length": 0.0005546227890243607,
+      "numdate": 2024.0548460043476
+    },
+    "NODE_0000090": {
+      "branch_length": 0.00038348985584610567,
+      "clock_length": 0.00038348985584610567,
+      "date": "2024-03-17",
+      "date_inferred": true,
+      "mutation_length": 0.0008323675372690417,
+      "numdate": 2024.2088579946471
+    },
+    "NODE_0000092": {
+      "branch_length": 1.400097037749723e-05,
+      "clock_length": 1.400097037749723e-05,
+      "date": "2024-03-19",
+      "date_inferred": true,
+      "mutation_length": 0.00013862535671281298,
+      "numdate": 2024.214480874317
+    },
+    "NODE_0000093": {
+      "branch_length": 0.00038156331924517166,
+      "clock_length": 0.00038156331924517166,
+      "date": "2024-03-17",
+      "date_inferred": true,
+      "mutation_length": 0.000277258539547132,
+      "numdate": 2024.208084285169
+    },
+    "NODE_0000099": {
+      "branch_length": 0.0001507188949261334,
+      "clock_length": 0.0001507188949261334,
+      "date": "2023-09-05",
+      "date_inferred": true,
+      "mutation_length": 0.00027724492499961234,
+      "numdate": 2023.6793828441178
+    },
+    "NODE_0000100": {
+      "branch_length": 0.0001761865893304853,
+      "clock_length": 0.0001761865893304853,
+      "date": "2023-09-09",
+      "date_inferred": true,
+      "mutation_length": 0.00027724492499961234,
+      "numdate": 2023.6896108338385
+    },
+    "NODE_0000101": {
+      "branch_length": 0.000196416969947709,
+      "clock_length": 0.000196416969947709,
+      "date": "2023-10-08",
+      "date_inferred": true,
+      "mutation_length": 0.00041600405089809773,
+      "numdate": 2023.7684931510864
+    },
+    "NODE_0000103": {
+      "branch_length": 0.0003580857002993352,
+      "clock_length": 0.0003580857002993352,
+      "date": "2023-10-06",
+      "date_inferred": true,
+      "mutation_length": 0.0002772502219704208,
+      "numdate": 2023.7626626856331
+    },
+    "NODE_0000105": {
+      "branch_length": 0.0014685925997841706,
+      "clock_length": 0.0014685925997841706,
+      "date": "2024-03-17",
+      "date_inferred": true,
+      "mutation_length": 0.0019433427817643245,
+      "numdate": 2024.2086493922536
+    },
+    "NODE_0000107": {
+      "branch_length": 0.0017581615439706965,
+      "clock_length": 0.0017581615439706965,
+      "date": "2024-11-30",
+      "date_inferred": true,
+      "mutation_length": 0.0019462158020656399,
+      "numdate": 2024.9147383657357
+    },
+    "NODE_0000108": {
+      "branch_length": 0.0014206877896068872,
+      "clock_length": 0.0014206877896068872,
+      "date": "2024-10-12",
+      "date_inferred": true,
+      "mutation_length": 0.0020822219242334853,
+      "numdate": 2024.7792067374771
+    },
+    "NODE_0000109": {
+      "branch_length": 0.00031694467627508876,
+      "clock_length": 0.00031694467627508876,
+      "date": "2024-11-27",
+      "date_inferred": true,
+      "mutation_length": 0.0002772801340495857,
+      "numdate": 2024.9064937560615
+    },
+    "NODE_0000110": {
+      "branch_length": 2.517097729124113e-05,
+      "clock_length": 2.517097729124113e-05,
+      "date": "2024-12-01",
+      "date_inferred": true,
+      "mutation_length": 0.0001386280021052001,
+      "numdate": 2024.9166025822828
+    },
+    "NODE_0000111": {
+      "branch_length": 4.854179243159087e-05,
+      "clock_length": 4.854179243159087e-05,
+      "date": "2024-10-19",
+      "date_inferred": true,
+      "mutation_length": 0.0001386278008918115,
+      "numdate": 2024.798701433233
+    },
+    "NODE_0000112": {
+      "branch_length": 0.00028916956598098195,
+      "clock_length": 0.00028916956598098195,
+      "date": "2024-11-30",
+      "date_inferred": true,
+      "mutation_length": 0.0002773546330302881,
+      "numdate": 2024.9148337890485
+    },
+    "NODE_0000117": {
+      "branch_length": 7.259665215438461e-05,
+      "clock_length": 7.259665215438461e-05,
+      "date": "2024-12-11",
+      "date_inferred": true,
+      "mutation_length": 0.00041598285496892407,
+      "numdate": 2024.9439890710382
+    },
+    "NODE_0000118": {
+      "branch_length": 0.0001995659563144925,
+      "clock_length": 0.0001995659563144925,
+      "date": "2024-12-30",
+      "date_inferred": true,
+      "mutation_length": 0.0002772977398129591,
+      "numdate": 2024.994980759456
+    },
+    "NODE_0000121": {
+      "branch_length": 0.0002846092029603715,
+      "clock_length": 0.0002846092029603715,
+      "date": "2024-11-30",
+      "date_inferred": true,
+      "mutation_length": 0.0005546560750098683,
+      "numdate": 2024.913002317956
+    },
+    "NODE_0000122": {
+      "branch_length": 0.00029194344278674197,
+      "clock_length": 0.00029194344278674197,
+      "date": "2024-12-01",
+      "date_inferred": true,
+      "mutation_length": 0.00013862793723354186,
+      "numdate": 2024.9159477957978
+    },
+    "NODE_0000123": {
+      "branch_length": 0.0005629106089103525,
+      "clock_length": 0.0005629106089103525,
+      "date": "2025-02-21",
+      "date_inferred": true,
+      "mutation_length": 0.00013863135751879659,
+      "numdate": 2025.1420163134326
+    },
+    "NODE_0000126": {
+      "branch_length": 0.000483933697395095,
+      "clock_length": 0.000483933697395095,
+      "date": "2025-02-10",
+      "date_inferred": true,
+      "mutation_length": 0.00013862789573677997,
+      "numdate": 2025.1102986782857
+    },
+    "NODE_0000127": {
+      "branch_length": 6.301949666018053e-05,
+      "clock_length": 6.301949666018053e-05,
+      "date": "2024-12-10",
+      "date_inferred": true,
+      "mutation_length": 0.0001386278008918115,
+      "numdate": 2024.941256830601
+    },
+    "_A/Sanderling/Arica_y_Parinacota/240265/2023": {
+      "branch_length": 0.0003534907227238041,
+      "clock_length": 0.0003534907227238041,
+      "date": "2023-03-03",
+      "date_inferred": false,
+      "mutation_length": 0.0005549561750303704,
+      "numdate": 2023.168493150685,
+      "raw_date": "2023-03-03"
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB007/2023": {
+      "branch_length": 0.0001884258330649858,
+      "clock_length": 0.0001884258330649858,
+      "date": "2023-08-26",
+      "date_inferred": false,
+      "mutation_length": 0.00041586188638755,
+      "numdate": 2023.650684931507,
+      "raw_date": "2023-08-26"
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB011/2023": {
+      "branch_length": 0.00012252043694535673,
+      "clock_length": 0.00012252043694535673,
+      "date": "2023-08-26",
+      "date_inferred": false,
+      "mutation_length": 0.0002772319899899672,
+      "numdate": 2023.650684931507,
+      "raw_date": "2023-08-26"
+    },
+    "_A/South_American_tern/Argentina/CH-PD030/2023": {
+      "branch_length": 2.2730785666875628e-05,
+      "clock_length": 2.2730785666875628e-05,
+      "date": "2023-10-10",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.7739726027398,
+      "raw_date": "2023-10-10"
+    },
+    "_A/sea_lion/Atacama/242444-1/2023": {
+      "branch_length": 0.0001328803876944097,
+      "clock_length": 0.0001328803876944097,
+      "date": "2023-03-13",
+      "date_inferred": false,
+      "mutation_length": 1.3524641277029489e-21,
+      "numdate": 2023.195890410959,
+      "raw_date": "2023-03-13"
+    }
+  }
+}

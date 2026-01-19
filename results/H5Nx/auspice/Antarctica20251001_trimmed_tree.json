@@ -1,0 +1,1639 @@
+{
+  "version": "v2",
+  "meta": {
+    "updated": "2026-01-19",
+    "colorings": [],
+    "filters": [],
+    "panels": [
+      "tree"
+    ]
+  },
+  "tree": {
+    "name": "NODE_0000000",
+    "node_attrs": {
+      "div": 0
+    },
+    "branch_attrs": {},
+    "children": [
+      {
+        "name": "A/bobcat/Wisconsin/22-016051-001/2022",
+        "node_attrs": {
+          "div": 0.00209611
+        },
+        "branch_attrs": {}
+      },
+      {
+        "name": "NODE_0000001",
+        "node_attrs": {
+          "div": 0.00294559
+        },
+        "branch_attrs": {},
+        "children": [
+          {
+            "name": "NODE_0000002",
+            "node_attrs": {
+              "div": 0.00325154
+            },
+            "branch_attrs": {},
+            "children": [
+              {
+                "name": "A/Guanay_cormorant/Peru/PIU-SER024/2022",
+                "node_attrs": {
+                  "div": 0.00335134
+                },
+                "branch_attrs": {}
+              },
+              {
+                "name": "A/Sanderling/Peru/PIU-SER005/2022",
+                "node_attrs": {
+                  "div": 0.0033377
+                },
+                "branch_attrs": {}
+              }
+            ]
+          },
+          {
+            "name": "NODE_0000003",
+            "node_attrs": {
+              "div": 0.00299031
+            },
+            "branch_attrs": {},
+            "children": [
+              {
+                "name": "NODE_0000004",
+                "node_attrs": {
+                  "div": 0.00316038
+                },
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "name": "A/black_skimmer/Chile/C61962/2022",
+                    "node_attrs": {
+                      "div": 0.00340592
+                    },
+                    "branch_attrs": {}
+                  },
+                  {
+                    "name": "A/environment/Chile/C62044/2022",
+                    "node_attrs": {
+                      "div": 0.00348096
+                    },
+                    "branch_attrs": {}
+                  },
+                  {
+                    "name": "NODE_0000006",
+                    "node_attrs": {
+                      "div": 0.00323355
+                    },
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "name": "A/chicken/Atacama/235254-2/2023",
+                        "node_attrs": {
+                          "div": 0.00384252
+                        },
+                        "branch_attrs": {}
+                      },
+                      {
+                        "name": "NODE_0000007",
+                        "node_attrs": {
+                          "div": 0.00330216
+                        },
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "name": "A/Pelican/Antofagasta/228246-2/2022",
+                            "node_attrs": {
+                              "div": 0.0034946
+                            },
+                            "branch_attrs": {}
+                          },
+                          {
+                            "name": "NODE_0000008",
+                            "node_attrs": {
+                              "div": 0.00367322
+                            },
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "name": "_A/Sanderling/Arica_y_Parinacota/240265/2023",
+                                "node_attrs": {
+                                  "div": 0.00402671
+                                },
+                                "branch_attrs": {}
+                              },
+                              {
+                                "name": "NODE_0000009",
+                                "node_attrs": {
+                                  "div": 0.00396205
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Chile/25945/2023",
+                                    "node_attrs": {
+                                      "div": 0.00416997
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "_A/sea_lion/Atacama/242444-1/2023",
+                                    "node_attrs": {
+                                      "div": 0.00409493
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/sea_lion/Tarapaca/245719-10/2023",
+                                    "node_attrs": {
+                                      "div": 0.0042109
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000012",
+                                    "node_attrs": {
+                                      "div": 0.00407455
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "NODE_0000013",
+                                        "node_attrs": {
+                                          "div": 0.00518724
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/antarctic_fur_seal/Antarctica/O2913-BR/2024",
+                                            "node_attrs": {
+                                              "div": 0.0084545
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "A/Southern_fulmar/Falkland_Islands/133789/2023",
+                                            "node_attrs": {
+                                              "div": 0.00567079
+                                            },
+                                            "branch_attrs": {}
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "NODE_0000014",
+                                        "node_attrs": {
+                                          "div": 0.00493427
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "NODE_0000015",
+                                            "node_attrs": {
+                                              "div": 0.00504054
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/Procellaria_aequinoctialis/Sao_Paulo/2259-N/2023",
+                                                "node_attrs": {
+                                                  "div": 0.00573901
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "NODE_0000016",
+                                                "node_attrs": {
+                                                  "div": 0.00507402
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "NODE_0000017",
+                                                    "node_attrs": {
+                                                      "div": 0.00551162
+                                                    },
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "name": "_A/South_American_tern/Argentina/CH-PD030/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00553435
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "NODE_0000018",
+                                                        "node_attrs": {
+                                                          "div": 0.00614818
+                                                        },
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "name": "A/kelp_gull/Antartica/O2601-CL/2024",
+                                                            "node_attrs": {
+                                                              "div": 0.00614818
+                                                            },
+                                                            "branch_attrs": {}
+                                                          },
+                                                          {
+                                                            "name": "A/kelp_gull/South_Shetland_Islands/10272/2024",
+                                                            "node_attrs": {
+                                                              "div": 0.00614818
+                                                            },
+                                                            "branch_attrs": {}
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "NODE_0000019",
+                                                    "node_attrs": {
+                                                      "div": 0.00510484
+                                                    },
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "name": "A/Sea_Lion/Argentina/3893-1/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00512503
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "A/southern_elephant_seal/Argentina/CH-PD035/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00553435
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "_A/South_American_sea_lion/Argentina/RN-PB011/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00522736
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "A/South_American_tern/Argentina/CH-PD037/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00553435
+                                                        },
+                                                        "branch_attrs": {}
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "NODE_0000022",
+                                            "node_attrs": {
+                                              "div": 0.00503894
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "_A/South_American_sea_lion/Argentina/RN-PB007/2023",
+                                                "node_attrs": {
+                                                  "div": 0.00522737
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "NODE_0000023",
+                                                "node_attrs": {
+                                                  "div": 0.00517754
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/pinniped/Uruguay/P4_6923/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00530241
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/pinniped/Uruguay/P10_8923/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00531605
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "NODE_0000026",
+                                                    "node_attrs": {
+                                                      "div": 0.00529805
+                                                    },
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "name": "A/pinniped/Uruguay/P14_11923/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00533651
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "A/pinniped/Uruguay/P13_11923/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00533651
+                                                        },
+                                                        "branch_attrs": {}
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "A/royal_tern/Argentina/CH-PD036/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00553435
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "NODE_0000028",
+                                                    "node_attrs": {
+                                                      "div": 0.00551481
+                                                    },
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "name": "NODE_0000029",
+                                                        "node_attrs": {
+                                                          "div": 0.0072799
+                                                        },
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "name": "A/antarctic_fur_seal/Antarctica/O2904-BR/2024",
+                                                            "node_attrs": {
+                                                              "div": 0.00843409
+                                                            },
+                                                            "branch_attrs": {}
+                                                          },
+                                                          {
+                                                            "name": "NODE_0000030",
+                                                            "node_attrs": {
+                                                              "div": 0.00837374
+                                                            },
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "name": "A/antarctic_fur_seal/Antarctica/O3122-NS/2024",
+                                                                "node_attrs": {
+                                                                  "div": 0.00840008
+                                                                },
+                                                                "branch_attrs": {}
+                                                              },
+                                                              {
+                                                                "name": "A/antarctic_fur_seal/Antarctica/O3122-BR/2024",
+                                                                "node_attrs": {
+                                                                  "div": 0.00840008
+                                                                },
+                                                                "branch_attrs": {}
+                                                              },
+                                                              {
+                                                                "name": "A/antarctic_fur_seal/Antarctica/O3122-OR/2024",
+                                                                "node_attrs": {
+                                                                  "div": 0.00840008
+                                                                },
+                                                                "branch_attrs": {}
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "NODE_0000032",
+                                                        "node_attrs": {
+                                                          "div": 0.00662973
+                                                        },
+                                                        "branch_attrs": {},
+                                                        "children": [
+                                                          {
+                                                            "name": "NODE_0000033",
+                                                            "node_attrs": {
+                                                              "div": 0.00808844
+                                                            },
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "name": "A/skua/Antarctica/O3575-OR/2025",
+                                                                "node_attrs": {
+                                                                  "div": 0.00895213
+                                                                },
+                                                                "branch_attrs": {}
+                                                              },
+                                                              {
+                                                                "name": "A/skua/Antarctica/O3610-OR/2025",
+                                                                "node_attrs": {
+                                                                  "div": 0.00902035
+                                                                },
+                                                                "branch_attrs": {}
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "NODE_0000034",
+                                                            "node_attrs": {
+                                                              "div": 0.00878896
+                                                            },
+                                                            "branch_attrs": {},
+                                                            "children": [
+                                                              {
+                                                                "name": "A/skua/Antarctica/O3592-CL/2025",
+                                                                "node_attrs": {
+                                                                  "div": 0.00898624
+                                                                },
+                                                                "branch_attrs": {}
+                                                              },
+                                                              {
+                                                                "name": "A/skua/Antarctica/O3592-OR/2025",
+                                                                "node_attrs": {
+                                                                  "div": 0.00898624
+                                                                },
+                                                                "branch_attrs": {}
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "NODE_0000035",
+                "node_attrs": {
+                  "div": 0.0033321
+                },
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "name": "A/Black_Skimmer/Maule/240379/2023",
+                    "node_attrs": {
+                      "div": 0.00404718
+                    },
+                    "branch_attrs": {}
+                  },
+                  {
+                    "name": "NODE_0000036",
+                    "node_attrs": {
+                      "div": 0.00365398
+                    },
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "name": "NODE_0000037",
+                        "node_attrs": {
+                          "div": 0.00396526
+                        },
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "name": "A/chicken/Metropolitana/243148-1/2023",
+                            "node_attrs": {
+                              "div": 0.00414269
+                            },
+                            "branch_attrs": {}
+                          },
+                          {
+                            "name": "A/chicken/OHiggins/241252-1/2023",
+                            "node_attrs": {
+                              "div": 0.00408812
+                            },
+                            "branch_attrs": {}
+                          },
+                          {
+                            "name": "A/chicken/OHiggins/241252-3/2023",
+                            "node_attrs": {
+                              "div": 0.00408812
+                            },
+                            "branch_attrs": {}
+                          },
+                          {
+                            "name": "A/chicken/OHiggins/241252-6/2023",
+                            "node_attrs": {
+                              "div": 0.00408812
+                            },
+                            "branch_attrs": {}
+                          }
+                        ]
+                      },
+                      {
+                        "name": "NODE_0000040",
+                        "node_attrs": {
+                          "div": 0.00509911
+                        },
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "name": "NODE_0000041",
+                            "node_attrs": {
+                              "div": 0.00541189
+                            },
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "name": "NODE_0000042",
+                                "node_attrs": {
+                                  "div": 0.0055107
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Brown_Skua/Penguin_River/141240/2023",
+                                    "node_attrs": {
+                                      "div": 0.00573219
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000044",
+                                    "node_attrs": {
+                                      "div": 0.00780128
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Brown_Skua/Gough_Island/047354/2024",
+                                        "node_attrs": {
+                                          "div": 0.00788983
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/Brown_Skua/Gough_Island/047355/2024",
+                                        "node_attrs": {
+                                          "div": 0.00788983
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "NODE_0000045",
+                                    "node_attrs": {
+                                      "div": 0.00809043
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/kelp_gull/Kerguelen/24P023440/2024",
+                                        "node_attrs": {
+                                          "div": 0.00837967
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/brown_skua/Kerguelen/24P023446/2024",
+                                        "node_attrs": {
+                                          "div": 0.00837967
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/southern_elephant_seal/Kerguelen/24P023439/2024",
+                                        "node_attrs": {
+                                          "div": 0.00837967
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "NODE_0000048",
+                                        "node_attrs": {
+                                          "div": 0.008209
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/southern_elephant_seal/Kerguelen/24P023433/2024",
+                                            "node_attrs": {
+                                              "div": 0.00837967
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "A/brown_skua/Kerguelen/24P023443/2024",
+                                            "node_attrs": {
+                                              "div": 0.00838648
+                                            },
+                                            "branch_attrs": {}
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "NODE_0000049",
+                                "node_attrs": {
+                                  "div": 0.00788159
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/king_penguin/Crozet/24P023407/2024",
+                                    "node_attrs": {
+                                      "div": 0.00822319
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/brown_skua/Crozet/24P023412/2024",
+                                    "node_attrs": {
+                                      "div": 0.00826401
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/cape_petrel/Crozet/24P023427/2024",
+                                    "node_attrs": {
+                                      "div": 0.00831844
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/king_penguin/Crozet/24P023398/2024",
+                                    "node_attrs": {
+                                      "div": 0.00821639
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/southern_elephant_seal/Crozet/24P023401/2024",
+                                    "node_attrs": {
+                                      "div": 0.00821639
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/southern_elephant_seal/Crozet/24P023403/2024",
+                                    "node_attrs": {
+                                      "div": 0.00820958
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000056",
+                                    "node_attrs": {
+                                      "div": 0.00814155
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/southern_elephant_seal/Crozet/24P021420/2024",
+                                        "node_attrs": {
+                                          "div": 0.00814155
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/southern_elephant_seal/Crozet/24P021422/2024",
+                                        "node_attrs": {
+                                          "div": 0.00814155
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "NODE_0000058",
+                                    "node_attrs": {
+                                      "div": 0.00806842
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/southern_elephant_seal/Crozet/24P023419/2024",
+                                        "node_attrs": {
+                                          "div": 0.00825041
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/southern_elephant_seal/Crozet/24P023417/2024",
+                                        "node_attrs": {
+                                          "div": 0.00825041
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/king_penguin/Crozet/24P023414/2024",
+                                        "node_attrs": {
+                                          "div": 0.0082436
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "NODE_0000060",
+                                    "node_attrs": {
+                                      "div": 0.00802574
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/southern_elephant_seal/Crozet/24P021417/2024",
+                                        "node_attrs": {
+                                          "div": 0.00809393
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "NODE_0000061",
+                                        "node_attrs": {
+                                          "div": 0.00806759
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/southern_elephant_seal/Crozet/24P021403/2024",
+                                            "node_attrs": {
+                                              "div": 0.00809393
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "NODE_0000064",
+                                            "node_attrs": {
+                                              "div": 0.00808111
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/southern_elephant_seal/Crozet/24P023422/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00827762
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/southern_elephant_seal/Crozet/24P021402/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00809393
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/king_penguin/Crozet/24P021412/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00809393
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/southern_elephant_seal/Crozet/24P021415/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00809393
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/king_penguin/Crozet/24P021416/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00809393
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "A/southern_elephant_seal/Crozet/24P021407/2024",
+                                            "node_attrs": {
+                                              "div": 0.00809393
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "A/southern_elephant_seal/Crozet/24P021404/2024",
+                                            "node_attrs": {
+                                              "div": 0.00809393
+                                            },
+                                            "branch_attrs": {}
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "NODE_0000068",
+                            "node_attrs": {
+                              "div": 0.00514812
+                            },
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "name": "NODE_0000070",
+                                "node_attrs": {
+                                  "div": 0.0052184
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "NODE_0000071",
+                                    "node_attrs": {
+                                      "div": 0.00548313
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Southern_Elephant_Seal/Jason_Harbour/141027/2023",
+                                        "node_attrs": {
+                                          "div": 0.00594369
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/Southern_Elephant_Seal/Jason_Harbour/141078/2023",
+                                        "node_attrs": {
+                                          "div": 0.00594369
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "NODE_0000072",
+                                    "node_attrs": {
+                                      "div": 0.00530431
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Kelp_Gull/Penguin_River/141234/2023",
+                                        "node_attrs": {
+                                          "div": 0.00573221
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "NODE_0000073",
+                                        "node_attrs": {
+                                          "div": 0.00551867
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/Kelp_Gull/Penguin_River/141239/2023",
+                                            "node_attrs": {
+                                              "div": 0.00573221
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "NODE_0000074",
+                                            "node_attrs": {
+                                              "div": 0.0056182
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "NODE_0000075",
+                                                "node_attrs": {
+                                                  "div": 0.00584316
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/Antarctic_tern/King_Edward_Point/141271/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00592322
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/South_Georgia_Shag/King_Edward_Cove/141245/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00586182
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "NODE_0000076",
+                                                "node_attrs": {
+                                                  "div": 0.00565666
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/Brown_Skua/Penguin_River/141236/2023",
+                                                    "node_attrs": {
+                                                      "div": 0.00573221
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "NODE_0000077",
+                                                    "node_attrs": {
+                                                      "div": 0.00572018
+                                                    },
+                                                    "branch_attrs": {},
+                                                    "children": [
+                                                      {
+                                                        "name": "A/Antarctic_Fur_Seal/Jason_Harbour/141037/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00594369
+                                                        },
+                                                        "branch_attrs": {}
+                                                      },
+                                                      {
+                                                        "name": "A/Brown_Skua/Bird_Island/141232/2023",
+                                                        "node_attrs": {
+                                                          "div": 0.00575267
+                                                        },
+                                                        "branch_attrs": {}
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "NODE_0000078",
+                                "node_attrs": {
+                                  "div": 0.00531502
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Brown_Skua/Moltke_Harbour/133755/2023",
+                                    "node_attrs": {
+                                      "div": 0.00567763
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000080",
+                                    "node_attrs": {
+                                      "div": 0.00541758
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Kelp_Gull/Hound_Bay/133744/2023",
+                                        "node_attrs": {
+                                          "div": 0.00567081
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/Kelp_Gull/Harpon_Bay/133943/2023",
+                                        "node_attrs": {
+                                          "div": 0.0056981
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "NODE_0000081",
+                                    "node_attrs": {
+                                      "div": 0.00586011
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "NODE_0000082",
+                                        "node_attrs": {
+                                          "div": 0.0062798
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/South_polar_skua/Beak_Island/SK08-138/2024",
+                                            "node_attrs": {
+                                              "div": 0.00663804
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "NODE_0000083",
+                                            "node_attrs": {
+                                              "div": 0.00645038
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "NODE_0000084",
+                                                "node_attrs": {
+                                                  "div": 0.0064899
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU2/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00652238
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU3/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00652238
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "NODE_0000086",
+                                                "node_attrs": {
+                                                  "div": 0.00647692
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU1/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00652238
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5L/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00652238
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU4/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00652238
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00652238
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "NODE_0000088",
+                                        "node_attrs": {
+                                          "div": 0.00623375
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/Brown_skua/Hope_Bay/SK02-30/2024",
+                                            "node_attrs": {
+                                              "div": 0.00662444
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "NODE_0000090",
+                                            "node_attrs": {
+                                              "div": 0.00661724
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "NODE_0000092",
+                                                "node_attrs": {
+                                                  "div": 0.00663124
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/Skua/Devil_Island/SK07-51/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00663124
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/Skua/Devil_Island/SK07-52/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00663124
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK13-180/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00664485
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK17-184/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00664485
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "NODE_0000093",
+                                            "node_attrs": {
+                                              "div": 0.00661531
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK09-147/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00663804
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK11-164/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00663804
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK12-173/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00663804
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK10-155/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00663804
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/Skua/Beak_Island/SK12-174/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00663804
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "NODE_0000099",
+                                "node_attrs": {
+                                  "div": 0.00529884
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Kelp_Gull/Hound_Bay/133747/2023",
+                                    "node_attrs": {
+                                      "div": 0.00567081
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/Brown_Skua/Hound_Bay/133947/2023",
+                                    "node_attrs": {
+                                      "div": 0.00567081
+                                    },
+                                    "branch_attrs": {}
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "NODE_0000100",
+                                "node_attrs": {
+                                  "div": 0.00532431
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Brown_skua/Bird_Island/128289/2023",
+                                    "node_attrs": {
+                                      "div": 0.00552073
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000101",
+                                    "node_attrs": {
+                                      "div": 0.00552073
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Brown_skua/Bird_Island/128287/2023",
+                                        "node_attrs": {
+                                          "div": 0.00552073
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/Brown_skua/Bird_Island/128288/2023",
+                                        "node_attrs": {
+                                          "div": 0.00552073
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "NODE_0000103",
+                                "node_attrs": {
+                                  "div": 0.00550621
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "A/Brown_Skua/Hound_Bay/133949/2023",
+                                    "node_attrs": {
+                                      "div": 0.00567081
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "A/Brown_Skua/Moltke_Harbour/133752/2023",
+                                    "node_attrs": {
+                                      "div": 0.00567763
+                                    },
+                                    "branch_attrs": {}
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "A/Kelp_Gull/Moltke_Harbour/133754/2023",
+                                "node_attrs": {
+                                  "div": 0.00567763
+                                },
+                                "branch_attrs": {}
+                              },
+                              {
+                                "name": "NODE_0000105",
+                                "node_attrs": {
+                                  "div": 0.00661671
+                                },
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "name": "NODE_0000108",
+                                    "node_attrs": {
+                                      "div": 0.0080374
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "NODE_0000109",
+                                        "node_attrs": {
+                                          "div": 0.00835434
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "A/skua/Curverville/INT.OE5.149/2024",
+                                            "node_attrs": {
+                                              "div": 0.0084477
+                                            },
+                                            "branch_attrs": {}
+                                          },
+                                          {
+                                            "name": "NODE_0000110",
+                                            "node_attrs": {
+                                              "div": 0.00837951
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.150/2024",
+                                                "node_attrs": {
+                                                  "div": 0.0084477
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.148/2024",
+                                                "node_attrs": {
+                                                  "div": 0.0084477
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "NODE_0000111",
+                                        "node_attrs": {
+                                          "div": 0.00808594
+                                        },
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "name": "NODE_0000112",
+                                            "node_attrs": {
+                                              "div": 0.00837511
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.266/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00838648
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.275/2025",
+                                                "node_attrs": {
+                                                  "div": 0.00859741
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.267/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00838648
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/skua/Curverville/INT.OE5.273/2025",
+                                                "node_attrs": {
+                                                  "div": 0.00859741
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "NODE_0000117",
+                                                "node_attrs": {
+                                                  "div": 0.00844771
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/skua/Curverville/INT.OE5.147/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00844771
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/skua/Curverville/INT.OE5.146/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00844771
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "NODE_0000118",
+                                                "node_attrs": {
+                                                  "div": 0.00857468
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/skua/Curverville/INT.OE5.281/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00859741
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/skua/Curverville/INT.OE5.271/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00859741
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/skua/Curverville/INT.OE5.278/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00859741
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "NODE_0000121",
+                                            "node_attrs": {
+                                              "div": 0.00837055
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "A/pintado_petrel/Antarctica/O3121-CL/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00839328
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "A/pintado_petrel/Antarctica/O3121-OR/2024",
+                                                "node_attrs": {
+                                                  "div": 0.00839328
+                                                },
+                                                "branch_attrs": {}
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "NODE_0000122",
+                                            "node_attrs": {
+                                              "div": 0.00837788
+                                            },
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "name": "NODE_0000123",
+                                                "node_attrs": {
+                                                  "div": 0.00894079
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/skua/Antarctica/O3589-CL/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00898625
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/skua/Antarctica/O3589-OR/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00898625
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "A/skua/Antarctica/O3588-CL/2025",
+                                                "node_attrs": {
+                                                  "div": 0.00898625
+                                                },
+                                                "branch_attrs": {}
+                                              },
+                                              {
+                                                "name": "NODE_0000126",
+                                                "node_attrs": {
+                                                  "div": 0.00886181
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/skua/Antarctica/O3577-CL/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00896578
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/skua/Antarctica/O3577-OR/2025",
+                                                    "node_attrs": {
+                                                      "div": 0.00896578
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "NODE_0000127",
+                                                "node_attrs": {
+                                                  "div": 0.0084409
+                                                },
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "name": "A/Brown_skua/Fildes_Peninsula/B3/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00854975
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/Brown_skua/Fildes_Peninsula/B2/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00854295
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/Brown_skua/Fildes_Peninsula/B1/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.0084409
+                                                    },
+                                                    "branch_attrs": {}
+                                                  },
+                                                  {
+                                                    "name": "A/Brown_skua/Fildes_Peninsula/F4/2024",
+                                                    "node_attrs": {
+                                                      "div": 0.00854975
+                                                    },
+                                                    "branch_attrs": {}
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "A/skua/Yalours/INT.OE5.379/2025",
+                                    "node_attrs": {
+                                      "div": 0.00887028
+                                    },
+                                    "branch_attrs": {}
+                                  },
+                                  {
+                                    "name": "NODE_0000107",
+                                    "node_attrs": {
+                                      "div": 0.00837487
+                                    },
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "name": "A/Brown_skua/Torgersen_Island/o8182/2024",
+                                        "node_attrs": {
+                                          "div": 0.00837967
+                                        },
+                                        "branch_attrs": {}
+                                      },
+                                      {
+                                        "name": "A/Brown_Skua/Torgersen_Island/o81-b82/2024",
+                                        "node_attrs": {
+                                          "div": 0.00848852
+                                        },
+                                        "branch_attrs": {}
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

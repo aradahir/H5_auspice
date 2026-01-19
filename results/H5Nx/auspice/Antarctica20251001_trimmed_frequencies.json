@@ -1,0 +1,22 @@
+{
+  "clade|2.3.4.4b": {
+    "frequencies": [
+      1.0,
+      1.0
+    ]
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  },
+  "global": {
+    "frequencies": [
+      1.0,
+      1.0
+    ]
+  },
+  "pivots": [
+    2025.0041,
+    2025.5
+  ]
+}

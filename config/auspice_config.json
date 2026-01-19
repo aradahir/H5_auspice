@@ -1,0 +1,70 @@
+{
+  "title": "Influenza A/H5Nx Phylogeny",
+  "maintainers": [
+      {"name": "Arada Hirankitti", "url": "https://github.com/aradahir"},
+      {"name": "Clyde Dapat", "url": "https://github.com/clyde-dapat"},
+      {"name": "Michelle Wille", "url": "//github.com/michellewille2"}
+  ],
+  "build_url": "https://github.com/nextstrain/seasonal-flu",
+  "colorings": [
+    {
+      "key": "Host",
+      "title": "Host",
+      "type": "categorical"
+    },
+    {
+      "key": "Broad_Location",
+      "title": "Broad_Location",
+      "type": "categorical"
+    },
+    {
+      "key": "Location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "clade",
+      "title": "Clade",
+      "type": "categorical"
+    },
+        {
+      "key": "NA_deletion",
+      "title": "NA_deletion",
+      "type": "categorical"
+    },
+    {
+      "key": "PB2_D701_mutation",
+      "title": "PB2_D701_Mutation",
+      "type": "categorical"
+    },
+    {
+      "key": "Submitting_Lab",
+      "title": "Submitting_Lab",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "Location",
+    "Broad_Location"
+  ],
+  "display_defaults": {
+    "color_by": "clade",
+    "distance_measure": "div",
+    "map_triplicate": true
+  },
+  "filters": [
+    "Host",
+    "Location",
+    "Broad_Location",
+    "NA_deletion",
+    "PB2_D701_Mutation",
+    "clade",
+    "Submitting_Lab"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy",
+    "frequencies"
+  ]
+}

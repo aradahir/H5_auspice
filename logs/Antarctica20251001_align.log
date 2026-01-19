@@ -1,0 +1,8 @@
+
+using mafft to align via:
+	mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 1 results/H5Nx/tree/Antarctica20251001_aligned.fasta.to_align.fasta 1> results/H5Nx/tree/Antarctica20251001_aligned.fasta 2> results/H5Nx/tree/Antarctica20251001_aligned.fasta.log 
+
+	Katoh et al, Nucleic Acid Research, vol 30, issue 14
+	https://doi.org/10.1093%2Fnar%2Fgkf436
+
+Trimmed gaps in A/bobcat/Wisconsin/22-016051-001/2022 from the alignment

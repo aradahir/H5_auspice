@@ -1,0 +1,14 @@
+augur refine is using TreeTime version 0.11.4
+
+1.29	###TreeTime.run: INITIAL ROUND
+
+3.62	###TreeTime.run: ITERATION 1 out of 2 iterations
+
+6.09	###TreeTime.run: ITERATION 2 out of 2 iterations
+
+Inferred a time resolved phylogeny using TreeTime:
+	Sagulenko et al. TreeTime: Maximum-likelihood phylodynamic analysis
+	Virus Evolution, vol 4, https://academic.oup.com/ve/article/4/1/vex042/4794731
+
+updated tree written to results/H5Nx/tree/Antarctica20251001_tree.nwk
+node attributes written to results/H5Nx/tree/Antarctica20251001_branch_lengths.json

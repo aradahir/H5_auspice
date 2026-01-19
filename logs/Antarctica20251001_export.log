@@ -1,0 +1,46 @@
+Validating schema of 'results/H5Nx/tree/Antarctica20251001_aa_muts.json'...
+Validating schema of 'results/H5Nx/tree/Antarctica20251001_nt_muts.json'...
+WARNING: results/H5Nx/auspice/Antarctica20251001_frequencies.json has empty or nonexistent `nodes` and `branches`. Please check the formatting of this JSON!
+Validating schema of 'config/auspice_config.json'...
+WARNING: Requested color-by field 'NA deletion' does not exist and will not be used as a coloring or exported.
+
+WARNING: Location->James Ross Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Beak Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->South Shetland Islands did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->South America  did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Kerguelen Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Gough Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Falkland Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Torgersen Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Curverville did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->South Georgia Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Hope Bay did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Yalours did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Devil Island did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Location->Crozet did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Geo resolution "Location" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: Geo resolution "Broad Location" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+Validating schema of 'results/H5Nx/auspice/Antarctica20251001_auspice.json'...
+	WARNING:  The filter "Broad Location" does not appear as a property on any tree nodes.
+	WARNING:  The filter "Submitting Lab" does not appear as a property on any tree nodes.
+Validation of 'results/H5Nx/auspice/Antarctica20251001_auspice.json' succeeded, but there were warnings you may want to resolve.
+Validating config file 'config/auspice_config.json' against the JSON schema
+Validating produced JSON
+Validating that the JSON is internally consistent...
+

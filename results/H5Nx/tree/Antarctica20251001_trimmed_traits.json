@@ -1,0 +1,639 @@
+{
+  "models": {},
+  "nodes": {
+    "NODE_0000000": {
+      "clade": "2.3.4.4b"
+    },
+    "A/bobcat/Wisconsin/22-016051-001/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000001": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000002": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Guanay_cormorant/Peru/PIU-SER024/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Sanderling/Peru/PIU-SER005/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000003": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000004": {
+      "clade": "2.3.4.4b"
+    },
+    "A/black_skimmer/Chile/C61962/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "A/environment/Chile/C62044/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000006": {
+      "clade": "2.3.4.4b"
+    },
+    "A/chicken/Atacama/235254-2/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000007": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Pelican/Antofagasta/228246-2/2022": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000008": {
+      "clade": "2.3.4.4b"
+    },
+    "_A/Sanderling/Arica_y_Parinacota/240265/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000009": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Chile/25945/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "_A/sea_lion/Atacama/242444-1/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/sea_lion/Tarapaca/245719-10/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000012": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000013": {
+      "clade": "2.3.4.4b"
+    },
+    "A/antarctic_fur_seal/Antarctica/O2913-BR/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Southern_fulmar/Falkland_Islands/133789/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000014": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000015": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Procellaria_aequinoctialis/Sao_Paulo/2259-N/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000016": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000017": {
+      "clade": "2.3.4.4b"
+    },
+    "_A/South_American_tern/Argentina/CH-PD030/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000018": {
+      "clade": "2.3.4.4b"
+    },
+    "A/kelp_gull/Antartica/O2601-CL/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/kelp_gull/South_Shetland_Islands/10272/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000019": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Sea_Lion/Argentina/3893-1/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Argentina/CH-PD035/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB011/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_American_tern/Argentina/CH-PD037/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000022": {
+      "clade": "2.3.4.4b"
+    },
+    "_A/South_American_sea_lion/Argentina/RN-PB007/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pinniped/Uruguay/P4_6923/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pinniped/Uruguay/P10_8923/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000026": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pinniped/Uruguay/P14_11923/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pinniped/Uruguay/P13_11923/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/royal_tern/Argentina/CH-PD036/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000028": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000029": {
+      "clade": "2.3.4.4b"
+    },
+    "A/antarctic_fur_seal/Antarctica/O2904-BR/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000030": {
+      "clade": "2.3.4.4b"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-NS/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-BR/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/antarctic_fur_seal/Antarctica/O3122-OR/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000032": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000033": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3575-OR/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3610-OR/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000034": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3592-CL/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3592-OR/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000035": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Black_Skimmer/Maule/240379/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000036": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000037": {
+      "clade": "2.3.4.4b"
+    },
+    "A/chicken/Metropolitana/243148-1/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/chicken/OHiggins/241252-1/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/chicken/OHiggins/241252-3/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/chicken/OHiggins/241252-6/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000040": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000041": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000042": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Penguin_River/141240/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000044": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Gough_Island/047354/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Gough_Island/047355/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000045": {
+      "clade": "2.3.4.4b"
+    },
+    "A/kelp_gull/Kerguelen/24P023440/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/brown_skua/Kerguelen/24P023446/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023439/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000048": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Kerguelen/24P023433/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/brown_skua/Kerguelen/24P023443/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000049": {
+      "clade": "2.3.4.4b"
+    },
+    "A/king_penguin/Crozet/24P023407/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/brown_skua/Crozet/24P023412/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/cape_petrel/Crozet/24P023427/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/king_penguin/Crozet/24P023398/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P023401/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P023403/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000056": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021420/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021422/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000058": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P023419/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P023417/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/king_penguin/Crozet/24P023414/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000060": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021417/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000061": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021403/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000064": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P023422/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021402/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/king_penguin/Crozet/24P021412/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021415/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/king_penguin/Crozet/24P021416/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021407/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/southern_elephant_seal/Crozet/24P021404/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000068": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000070": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000071": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141027/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Southern_Elephant_Seal/Jason_Harbour/141078/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000072": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Penguin_River/141234/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000073": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Penguin_River/141239/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000074": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000075": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Antarctic_tern/King_Edward_Point/141271/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_Georgia_Shag/King_Edward_Cove/141245/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000076": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Penguin_River/141236/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000077": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Antarctic_Fur_Seal/Jason_Harbour/141037/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Bird_Island/141232/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000078": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Moltke_Harbour/133755/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000080": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Hound_Bay/133744/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Harpon_Bay/133943/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000081": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000082": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Beak_Island/SK08-138/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000083": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000084": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU2/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU3/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000086": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU1/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5L/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU4/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/South_polar_skua/Antarctica/INACH-UC-UCHILE-SKU5/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000088": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Hope_Bay/SK02-30/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000090": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000092": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Devil_Island/SK07-51/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Devil_Island/SK07-52/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK13-180/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK17-184/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000093": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK09-147/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK11-164/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK12-173/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK10-155/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Skua/Beak_Island/SK12-174/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000099": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Hound_Bay/133747/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Hound_Bay/133947/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000100": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Bird_Island/128289/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000101": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Bird_Island/128287/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Bird_Island/128288/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000103": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Hound_Bay/133949/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Moltke_Harbour/133752/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Kelp_Gull/Moltke_Harbour/133754/2023": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000105": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000108": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000109": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.149/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000110": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.150/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.148/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000111": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000112": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.266/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.275/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.267/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.273/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000117": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.147/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.146/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000118": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.281/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.271/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Curverville/INT.OE5.278/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000121": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pintado_petrel/Antarctica/O3121-CL/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/pintado_petrel/Antarctica/O3121-OR/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000122": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000123": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3589-CL/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3589-OR/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3588-CL/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000126": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3577-CL/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Antarctica/O3577-OR/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000127": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B3/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B2/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Fildes_Peninsula/B1/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Fildes_Peninsula/F4/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/skua/Yalours/INT.OE5.379/2025": {
+      "clade": "2.3.4.4b"
+    },
+    "NODE_0000107": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_skua/Torgersen_Island/o8182/2024": {
+      "clade": "2.3.4.4b"
+    },
+    "A/Brown_Skua/Torgersen_Island/o81-b82/2024": {
+      "clade": "2.3.4.4b"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  }
+}

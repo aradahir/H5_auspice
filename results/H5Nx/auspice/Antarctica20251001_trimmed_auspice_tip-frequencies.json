@@ -1,0 +1,100 @@
+{
+  "A/skua/Antarctica/O3575-OR/2025": {
+    "frequencies": [
+      0.037064,
+      0.080899
+    ]
+  },
+  "A/skua/Antarctica/O3577-CL/2025": {
+    "frequencies": [
+      0.033881,
+      0.083519
+    ]
+  },
+  "A/skua/Antarctica/O3577-OR/2025": {
+    "frequencies": [
+      0.033881,
+      0.083519
+    ]
+  },
+  "A/skua/Antarctica/O3588-CL/2025": {
+    "frequencies": [
+      0.029542,
+      0.087578
+    ]
+  },
+  "A/skua/Antarctica/O3589-CL/2025": {
+    "frequencies": [
+      0.029542,
+      0.087578
+    ]
+  },
+  "A/skua/Antarctica/O3589-OR/2025": {
+    "frequencies": [
+      0.029542,
+      0.087578
+    ]
+  },
+  "A/skua/Antarctica/O3592-CL/2025": {
+    "frequencies": [
+      0.029542,
+      0.087578
+    ]
+  },
+  "A/skua/Antarctica/O3592-OR/2025": {
+    "frequencies": [
+      0.029542,
+      0.087578
+    ]
+  },
+  "A/skua/Antarctica/O3610-OR/2025": {
+    "frequencies": [
+      0.023432,
+      0.094758
+    ]
+  },
+  "A/skua/Curverville/INT.OE5.271/2025": {
+    "frequencies": [
+      0.132641,
+      0.030606
+    ]
+  },
+  "A/skua/Curverville/INT.OE5.273/2025": {
+    "frequencies": [
+      0.132641,
+      0.030606
+    ]
+  },
+  "A/skua/Curverville/INT.OE5.275/2025": {
+    "frequencies": [
+      0.132641,
+      0.030606
+    ]
+  },
+  "A/skua/Curverville/INT.OE5.278/2025": {
+    "frequencies": [
+      0.132641,
+      0.030606
+    ]
+  },
+  "A/skua/Curverville/INT.OE5.281/2025": {
+    "frequencies": [
+      0.132641,
+      0.030606
+    ]
+  },
+  "A/skua/Yalours/INT.OE5.379/2025": {
+    "frequencies": [
+      0.060829,
+      0.066384
+    ]
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "31.5.0"
+  },
+  "pivots": [
+    2025.0041,
+    2025.5
+  ]
+}

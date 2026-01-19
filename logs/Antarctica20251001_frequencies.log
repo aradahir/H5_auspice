@@ -1,0 +1,46 @@
+======================================================================
+Frequency Estimation - KDE Method
+======================================================================
+Metadata: results/H5Nx/tree/Antarctica20251001_metadata_formatted.tsv
+Tree JSON: results/H5Nx/auspice/Antarctica20251001_tree.json
+KDE bandwidth: 0.08333333333333333
+Pivot interval: 6 weeks
+Grouping by: clade
+Output (for augur export): results/H5Nx/auspice/Antarctica20251001_frequencies.json
+Output (tip-frequencies sidecar): results/H5Nx/auspice/Antarctica20251001_auspice_tip-frequencies.json
+======================================================================
+
+Step 1: Loading data...
+  ✓ Loaded tree JSON
+  ✓ Loaded metadata: 131 strains
+  ✓ Parsed dates
+
+Step 2: Filtering valid strains...
+  ✓ Valid strains: 131
+  ✓ Date range: 2022.39 to 2025.17
+  ✓ clade: 1 unique values
+
+Step 3: Computing frequencies with KDE...
+  ✓ Generated 2 pivot points
+  Computing frequency matrix for 131 strains...
+  ✓ Computed matrix: (131, 2)
+  Normalizing frequencies...
+  ✓ Normalization complete
+
+Step 4: Generating frequency outputs...
+  ℹ Skipping tip frequencies (use --include-tips to add)
+  ✓ Added 1 'clade' group frequencies
+  ✓ Added global frequency
+
+✓ Wrote frequency data to: results/H5Nx/auspice/Antarctica20251001_frequencies.json
+  Total keys: 4
+  This file should be included in 'augur export v2 --node-data'
+
+Step 5: Creating tip-frequencies sidecar...
+✓ Wrote tip-frequencies sidecar to: results/H5Nx/auspice/Antarctica20251001_auspice_tip-frequencies.json
+  Total tips: 15
+  This file will be automatically loaded by Auspice if named correctly
+
+======================================================================
+✓ SUCCESS!
+======================================================================

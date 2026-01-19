@@ -1,0 +1,245 @@
+IQ-TREE version 3.0.1 for MacOS ARM 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    UML-2F94C3Q05P (SSE4.2, 16 GB RAM)
+Command: iqtree3 --threads-max 1 -s results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo
+Seed:    200799 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Jan 19 16:07:54 2026
+Kernel:  SSE2 - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta ... Fasta format detected
+Reading fasta file: done in 0.00951314 secs using 89.46% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.0046711 secs using 80.92% CPU
+Alignment has 131 sequences with 7212 columns, 351 distinct patterns
+254 parsimony-informative, 200 singleton sites, 6758 constant sites
+                                                                                                      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000188112 secs using 28.17% CPU
+   1  A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O2904-BR_DELIM-0x2f_2024               0.00%    passed     99.12%
+   2  A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O3122-BR_DELIM-0x2f_2024               0.00%    passed     99.81%
+   3  A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O3122-OR_DELIM-0x2f_2024               0.00%    passed     99.81%
+   4  A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O3122-NS_DELIM-0x2f_2024               0.00%    passed     99.73%
+   5  A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O2913-BR_DELIM-0x2f_2024               0.00%    passed     99.58%
+   6  A_DELIM-0x2f_kelp_gull_DELIM-0x2f_Antartica_DELIM-0x2f_O2601-CL_DELIM-0x2f_2024                         0.00%    passed     99.30%
+   7  A_DELIM-0x2f_kelp_gull_DELIM-0x2f_South_Shetland_Islands_DELIM-0x2f_10272_DELIM-0x2f_2024               0.00%    passed     99.30%
+   8  _A_DELIM-0x2f_South_American_tern_DELIM-0x2f_Argentina_DELIM-0x2f_CH-PD030_DELIM-0x2f_2023              0.00%    passed     99.28%
+   9  A_DELIM-0x2f_Sea_Lion_DELIM-0x2f_Argentina_DELIM-0x2f_3893-1_DELIM-0x2f_2023                            0.00%    passed     99.62%
+  10  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Argentina_DELIM-0x2f_CH-PD035_DELIM-0x2f_2023            0.00%    passed     99.73%
+  11  _A_DELIM-0x2f_South_American_sea_lion_DELIM-0x2f_Argentina_DELIM-0x2f_RN-PB011_DELIM-0x2f_2023          0.00%    passed     99.83%
+  12  A_DELIM-0x2f_South_American_tern_DELIM-0x2f_Argentina_DELIM-0x2f_CH-PD037_DELIM-0x2f_2023               0.01%    passed     99.74%
+  13  _A_DELIM-0x2f_sea_lion_DELIM-0x2f_Atacama_DELIM-0x2f_242444-1_DELIM-0x2f_2023                           0.00%    passed     99.44%
+  14  _A_DELIM-0x2f_South_American_sea_lion_DELIM-0x2f_Argentina_DELIM-0x2f_RN-PB007_DELIM-0x2f_2023          0.00%    passed     99.44%
+  15  A_DELIM-0x2f_Chile_DELIM-0x2f_25945_DELIM-0x2f_2023                                                     0.00%    passed     99.38%
+  16  A_DELIM-0x2f_sea_lion_DELIM-0x2f_Tarapaca_DELIM-0x2f_245719-10_DELIM-0x2f_2023                          0.00%    passed     99.69%
+  17  A_DELIM-0x2f_pinniped_DELIM-0x2f_Uruguay_DELIM-0x2f_P4_6923_DELIM-0x2f_2023                             0.00%    passed     99.66%
+  18  A_DELIM-0x2f_pinniped_DELIM-0x2f_Uruguay_DELIM-0x2f_P10_8923_DELIM-0x2f_2023                            0.00%    passed     99.66%
+  19  A_DELIM-0x2f_pinniped_DELIM-0x2f_Uruguay_DELIM-0x2f_P14_11923_DELIM-0x2f_2023                           0.00%    passed     99.80%
+  20  A_DELIM-0x2f_pinniped_DELIM-0x2f_Uruguay_DELIM-0x2f_P13_11923_DELIM-0x2f_2023                           0.00%    passed     99.86%
+  21  A_DELIM-0x2f_royal_tern_DELIM-0x2f_Argentina_DELIM-0x2f_CH-PD036_DELIM-0x2f_2023                        0.00%    passed     99.69%
+  22  _A_DELIM-0x2f_Sanderling_DELIM-0x2f_Arica_y_Parinacota_DELIM-0x2f_240265_DELIM-0x2f_2023                0.00%    passed     99.62%
+  23  A_DELIM-0x2f_Procellaria_aequinoctialis_DELIM-0x2f_Sao_Paulo_DELIM-0x2f_2259-N_DELIM-0x2f_2023          0.00%    passed     99.13%
+  24  A_DELIM-0x2f_Southern_fulmar_DELIM-0x2f_Falkland_Islands_DELIM-0x2f_133789_DELIM-0x2f_2023              0.00%    passed     99.39%
+  25  A_DELIM-0x2f_Pelican_DELIM-0x2f_Antofagasta_DELIM-0x2f_228246-2_DELIM-0x2f_2022                         0.00%    passed     99.88%
+  26  A_DELIM-0x2f_chicken_DELIM-0x2f_Atacama_DELIM-0x2f_235254-2_DELIM-0x2f_2023                             0.00%    passed     99.93%
+  27  A_DELIM-0x2f_black_skimmer_DELIM-0x2f_Chile_DELIM-0x2f_C61962_DELIM-0x2f_2022                           0.00%    passed     99.99%
+  28  A_DELIM-0x2f_environment_DELIM-0x2f_Chile_DELIM-0x2f_C62044_DELIM-0x2f_2022                             0.00%    passed     99.99%
+  29  A_DELIM-0x2f_Guanay_cormorant_DELIM-0x2f_Peru_DELIM-0x2f_PIU-SER024_DELIM-0x2f_2022                     0.00%    passed     99.97%
+  30  A_DELIM-0x2f_Sanderling_DELIM-0x2f_Peru_DELIM-0x2f_PIU-SER005_DELIM-0x2f_2022                           0.00%    passed     99.92%
+  31  A_DELIM-0x2f_Black_Skimmer_DELIM-0x2f_Maule_DELIM-0x2f_240379_DELIM-0x2f_2023                           0.00%    passed     99.98%
+  32  A_DELIM-0x2f_chicken_DELIM-0x2f_Metropolitana_DELIM-0x2f_243148-1_DELIM-0x2f_2023                       0.00%    passed     99.99%
+  33  A_DELIM-0x2f_chicken_DELIM-0x2f_OHiggins_DELIM-0x2f_241252-3_DELIM-0x2f_2023                            0.00%    passed     99.99%
+  34  A_DELIM-0x2f_chicken_DELIM-0x2f_OHiggins_DELIM-0x2f_241252-6_DELIM-0x2f_2023                            0.00%    passed     99.99%
+  35  A_DELIM-0x2f_chicken_DELIM-0x2f_OHiggins_DELIM-0x2f_241252-1_DELIM-0x2f_2023                            0.00%    passed    100.00%
+  36  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3575-OR_DELIM-0x2f_2025                             0.00%    passed     99.92%
+  37  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3610-OR_DELIM-0x2f_2025                             0.00%    passed     99.97%
+  38  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3592-CL_DELIM-0x2f_2025                             0.00%    passed     99.31%
+  39  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3592-OR_DELIM-0x2f_2025                             0.00%    passed     99.38%
+  40  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Gough_Island_DELIM-0x2f_047354_DELIM-0x2f_2024                       0.00%    passed     99.95%
+  41  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Gough_Island_DELIM-0x2f_047355_DELIM-0x2f_2024                       0.00%    passed     99.95%
+  42  A_DELIM-0x2f_brown_skua_DELIM-0x2f_Kerguelen_DELIM-0x2f_24P023446_DELIM-0x2f_2024                       0.00%    passed     99.95%
+  43  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Kerguelen_DELIM-0x2f_24P023439_DELIM-0x2f_2024           0.03%    passed     99.93%
+  44  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Kerguelen_DELIM-0x2f_24P023433_DELIM-0x2f_2024           0.03%    passed     99.97%
+  45  A_DELIM-0x2f_brown_skua_DELIM-0x2f_Kerguelen_DELIM-0x2f_24P023443_DELIM-0x2f_2024                       0.01%    passed     99.97%
+  46  A_DELIM-0x2f_kelp_gull_DELIM-0x2f_Kerguelen_DELIM-0x2f_24P023440_DELIM-0x2f_2024                        0.10%    passed     99.92%
+  47  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Penguin_River_DELIM-0x2f_141240_DELIM-0x2f_2023                      0.00%    passed     99.98%
+  48  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Hope_Bay_DELIM-0x2f_SK02-30_DELIM-0x2f_2024                          0.01%    passed     99.83%
+  49  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK09-147_DELIM-0x2f_2024                            0.00%    passed     99.97%
+  50  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK10-155_DELIM-0x2f_2024                            0.00%    passed     99.95%
+  51  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK11-164_DELIM-0x2f_2024                            0.00%    passed     99.95%
+  52  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK12-173_DELIM-0x2f_2024                            0.00%    passed     99.95%
+  53  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK12-174_DELIM-0x2f_2024                            0.00%    passed     99.95%
+  54  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK13-180_DELIM-0x2f_2024                            0.03%    passed     99.90%
+  55  A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK17-184_DELIM-0x2f_2024                            0.00%    passed     99.88%
+  56  A_DELIM-0x2f_Skua_DELIM-0x2f_Devil_Island_DELIM-0x2f_SK07-51_DELIM-0x2f_2024                            0.01%    passed     99.79%
+  57  A_DELIM-0x2f_Skua_DELIM-0x2f_Devil_Island_DELIM-0x2f_SK07-52_DELIM-0x2f_2024                            0.01%    passed     99.79%
+  58  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK08-138_DELIM-0x2f_2024                0.01%    passed     99.99%
+  59  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU1_DELIM-0x2f_2024     0.00%    passed     99.92%
+  60  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU2_DELIM-0x2f_2024     0.00%    passed     99.92%
+  61  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU3_DELIM-0x2f_2024     0.00%    passed     99.86%
+  62  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU4_DELIM-0x2f_2024     0.00%    passed     99.92%
+  63  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU5_DELIM-0x2f_2024     0.00%    passed     99.92%
+  64  A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU5L_DELIM-0x2f_2024    0.00%    passed     99.91%
+  65  A_DELIM-0x2f_Antarctic_Fur_Seal_DELIM-0x2f_Jason_Harbour_DELIM-0x2f_141037_DELIM-0x2f_2023              0.00%    passed     99.80%
+  66  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_141232_DELIM-0x2f_2023                        0.00%    passed     99.82%
+  67  A_DELIM-0x2f_Antarctic_tern_DELIM-0x2f_King_Edward_Point_DELIM-0x2f_141271_DELIM-0x2f_2023              0.00%    passed     99.84%
+  68  A_DELIM-0x2f_South_Georgia_Shag_DELIM-0x2f_King_Edward_Cove_DELIM-0x2f_141245_DELIM-0x2f_2023           0.00%    passed     99.82%
+  69  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Penguin_River_DELIM-0x2f_141236_DELIM-0x2f_2023                      0.00%    passed     99.82%
+  70  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Penguin_River_DELIM-0x2f_141239_DELIM-0x2f_2023                       0.00%    passed     99.84%
+  71  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Penguin_River_DELIM-0x2f_141234_DELIM-0x2f_2023                       0.00%    passed     99.98%
+  72  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_128287_DELIM-0x2f_2023                        0.00%    passed     99.98%
+  73  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_128288_DELIM-0x2f_2023                        0.00%    passed     99.98%
+  74  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_128289_DELIM-0x2f_2023                        0.00%    passed     99.89%
+  75  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Hound_Bay_DELIM-0x2f_133949_DELIM-0x2f_2023                          0.00%    passed     99.96%
+  76  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Moltke_Harbour_DELIM-0x2f_133752_DELIM-0x2f_2023                     0.00%    passed     99.95%
+  77  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Hound_Bay_DELIM-0x2f_133747_DELIM-0x2f_2023                           0.00%    passed     99.89%
+  78  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Moltke_Harbour_DELIM-0x2f_133754_DELIM-0x2f_2023                      0.00%    passed     99.97%
+  79  A_DELIM-0x2f_Southern_Elephant_Seal_DELIM-0x2f_Jason_Harbour_DELIM-0x2f_141027_DELIM-0x2f_2023          0.00%    passed     99.96%
+  80  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Hound_Bay_DELIM-0x2f_133947_DELIM-0x2f_2023                          0.00%    passed     99.98%
+  81  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Hound_Bay_DELIM-0x2f_133744_DELIM-0x2f_2023                           0.00%    passed     99.99%
+  82  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Moltke_Harbour_DELIM-0x2f_133755_DELIM-0x2f_2023                     0.00%    passed     99.96%
+  83  A_DELIM-0x2f_Kelp_Gull_DELIM-0x2f_Harpon_Bay_DELIM-0x2f_133943_DELIM-0x2f_2023                          0.00%    passed     99.93%
+  84  A_DELIM-0x2f_Southern_Elephant_Seal_DELIM-0x2f_Jason_Harbour_DELIM-0x2f_141078_DELIM-0x2f_2023          0.00%    passed     99.98%
+  85  A_DELIM-0x2f_brown_skua_DELIM-0x2f_Crozet_DELIM-0x2f_24P023412_DELIM-0x2f_2024                          0.07%    passed     99.93%
+  86  A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P021412_DELIM-0x2f_2024                        0.01%    passed     99.90%
+  87  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021415_DELIM-0x2f_2024              0.01%    passed     99.94%
+  88  A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P021416_DELIM-0x2f_2024                        0.01%    passed     99.94%
+  89  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021407_DELIM-0x2f_2024              0.00%    passed     99.95%
+  90  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021417_DELIM-0x2f_2024              0.00%    passed     99.91%
+  91  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021404_DELIM-0x2f_2024              0.03%    passed     99.96%
+  92  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021403_DELIM-0x2f_2024              0.00%    passed     99.94%
+  93  A_DELIM-0x2f_cape_petrel_DELIM-0x2f_Crozet_DELIM-0x2f_24P023427_DELIM-0x2f_2024                         0.01%    passed     99.94%
+  94  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021420_DELIM-0x2f_2024              0.01%    passed     99.94%
+  95  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021422_DELIM-0x2f_2024              0.01%    passed     99.95%
+  96  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021402_DELIM-0x2f_2024              0.04%    passed     99.93%
+  97  A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P023398_DELIM-0x2f_2024                        0.03%    passed     99.97%
+  98  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P023422_DELIM-0x2f_2024              0.03%    passed     99.86%
+  99  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P023417_DELIM-0x2f_2024              0.03%    passed     99.87%
+ 100  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P023419_DELIM-0x2f_2024              0.00%    passed     99.91%
+ 101  A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P023414_DELIM-0x2f_2024                        0.04%    passed     99.95%
+ 102  A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P023407_DELIM-0x2f_2024                        0.03%    passed     99.85%
+ 103  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P023401_DELIM-0x2f_2024              0.03%    passed     99.98%
+ 104  A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P023403_DELIM-0x2f_2024              0.10%    passed     99.91%
+ 105  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B1_DELIM-0x2f_2024                       0.00%    passed     99.77%
+ 106  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B3_DELIM-0x2f_2024                       0.00%    passed     99.77%
+ 107  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B2_DELIM-0x2f_2024                       0.00%    passed     99.77%
+ 108  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_F4_DELIM-0x2f_2024                       0.00%    passed     99.77%
+ 109  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3588-CL_DELIM-0x2f_2025                             0.00%    passed     99.80%
+ 110  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3577-CL_DELIM-0x2f_2025                             0.00%    passed     99.64%
+ 111  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3577-OR_DELIM-0x2f_2025                             0.00%    passed     99.67%
+ 112  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3589-CL_DELIM-0x2f_2025                             0.00%    passed     99.70%
+ 113  A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3589-OR_DELIM-0x2f_2025                             0.00%    passed     99.70%
+ 114  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.150_DELIM-0x2f_2024                         0.00%    passed     99.83%
+ 115  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.149_DELIM-0x2f_2024                         0.00%    passed     99.86%
+ 116  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.148_DELIM-0x2f_2024                         0.00%    passed     99.82%
+ 117  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.147_DELIM-0x2f_2024                         0.00%    passed     99.56%
+ 118  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.146_DELIM-0x2f_2024                         0.00%    passed     99.56%
+ 119  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.267_DELIM-0x2f_2024                         0.00%    passed     99.71%
+ 120  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.266_DELIM-0x2f_2024                         0.00%    passed     99.71%
+ 121  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.273_DELIM-0x2f_2025                         0.00%    passed     99.71%
+ 122  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.275_DELIM-0x2f_2025                         0.00%    passed     99.71%
+ 123  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.271_DELIM-0x2f_2025                         0.00%    passed     99.50%
+ 124  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.281_DELIM-0x2f_2025                         0.00%    passed     99.50%
+ 125  A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.278_DELIM-0x2f_2025                         0.00%    passed     99.50%
+ 126  A_DELIM-0x2f_pintado_petrel_DELIM-0x2f_Antarctica_DELIM-0x2f_O3121-CL_DELIM-0x2f_2024                   0.00%    passed     99.77%
+ 127  A_DELIM-0x2f_pintado_petrel_DELIM-0x2f_Antarctica_DELIM-0x2f_O3121-OR_DELIM-0x2f_2024                   0.00%    passed     99.77%
+ 128  A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Torgersen_Island_DELIM-0x2f_o8182_DELIM-0x2f_2024                    0.00%    passed    100.00%
+ 129  A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Torgersen_Island_DELIM-0x2f_o81-b82_DELIM-0x2f_2024                  0.00%    passed    100.00%
+ 130  A_DELIM-0x2f_skua_DELIM-0x2f_Yalours_DELIM-0x2f_INT.OE5.379_DELIM-0x2f_2025                             0.00%    passed    100.00%
+ 131  A_DELIM-0x2f_bobcat_DELIM-0x2f_Wisconsin_DELIM-0x2f_22-016051-001_DELIM-0x2f_2022                       0.00%    passed     97.84%
+****  TOTAL                                                                                                   0.01%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O3122-OR_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_antarctic_fur_seal_DELIM-0x2f_Antarctica_DELIM-0x2f_O3122-BR_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_kelp_gull_DELIM-0x2f_South_Shetland_Islands_DELIM-0x2f_10272_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_kelp_gull_DELIM-0x2f_Antartica_DELIM-0x2f_O2601-CL_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_chicken_DELIM-0x2f_OHiggins_DELIM-0x2f_241252-6_DELIM-0x2f_2023 is identical to A_DELIM-0x2f_chicken_DELIM-0x2f_OHiggins_DELIM-0x2f_241252-3_DELIM-0x2f_2023 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK11-164_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK10-155_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_Skua_DELIM-0x2f_Devil_Island_DELIM-0x2f_SK07-52_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_Skua_DELIM-0x2f_Devil_Island_DELIM-0x2f_SK07-51_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU5_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_South_polar_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_INACH-UC-UCHILE-SKU4_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_128288_DELIM-0x2f_2023 is identical to A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Bird_Island_DELIM-0x2f_128287_DELIM-0x2f_2023 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_king_penguin_DELIM-0x2f_Crozet_DELIM-0x2f_24P021416_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_southern_elephant_seal_DELIM-0x2f_Crozet_DELIM-0x2f_24P021415_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B3_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B1_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3589-OR_DELIM-0x2f_2025 is identical to A_DELIM-0x2f_skua_DELIM-0x2f_Antarctica_DELIM-0x2f_O3589-CL_DELIM-0x2f_2025 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.146_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.147_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.266_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.267_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.281_DELIM-0x2f_2025 is identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.271_DELIM-0x2f_2025 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_pintado_petrel_DELIM-0x2f_Antarctica_DELIM-0x2f_O3121-OR_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_pintado_petrel_DELIM-0x2f_Antarctica_DELIM-0x2f_O3121-CL_DELIM-0x2f_2024 but kept for subsequent analysis
+NOTE: A_DELIM-0x2f_Brown_Skua_DELIM-0x2f_Torgersen_Island_DELIM-0x2f_o81-b82_DELIM-0x2f_2024 is identical to A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Torgersen_Island_DELIM-0x2f_o8182_DELIM-0x2f_2024 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000343084 secs using 72.58% CPU
+Identifying sites to remove: done in 0.00306201 secs using 98.86% CPU
+NOTE: 7 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK12-173_DELIM-0x2f_2024 (identical to A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK10-155_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK12-174_DELIM-0x2f_2024 (identical to A_DELIM-0x2f_Skua_DELIM-0x2f_Beak_Island_DELIM-0x2f_SK10-155_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B2_DELIM-0x2f_2024 (identical to A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B1_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_F4_DELIM-0x2f_2024 (identical to A_DELIM-0x2f_Brown_skua_DELIM-0x2f_Fildes_Peninsula_DELIM-0x2f_B1_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.273_DELIM-0x2f_2025 (identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.267_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.275_DELIM-0x2f_2025 (identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.267_DELIM-0x2f_2024) is ignored but added at the end
+NOTE: A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.278_DELIM-0x2f_2025 (identical to A_DELIM-0x2f_skua_DELIM-0x2f_Curverville_DELIM-0x2f_INT.OE5.271_DELIM-0x2f_2025) is ignored but added at the end
+Alignment was printed to results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 1 CPU cores
+Increase to 10 rounds for branch lengths
+62 trees examined
+Threads: 1 / Time: 1.015 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -34858
+Determining AUTO threadcount: done in 1.01573 secs using 91.84% CPU
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -14732.741
+2. Current log-likelihood: -14448.992
+Optimal log-likelihood: -14448.990
+Rate parameters:  A-C: 1.17042  A-G: 6.09784  A-T: 0.46434  C-G: 0.10613  C-T: 6.88322  G-T: 1.00000
+Base frequencies:  A: 0.307  C: 0.202  G: 0.256  T: 0.234
+Parameters optimization took 2 rounds (0.155 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0332329 secs using 84.96% CPU
+Computing ML distances took 0.033647 sec (of wall-clock time) 0.028382 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000747919 secs using 81.16% CPU
+Constructing RapidNJ tree: done in 0.000609875 secs using 161.8% CPU
+Computing RapidNJ tree took 0.001390 sec (of wall-clock time) 0.001630 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -14464.938
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 0.028579 secs using 90.06% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -14440.593
+Optimizing NNI: done in 0.026067 secs using 96.84% CPU
+Finish initializing candidate tree set (4)
+Current best tree score: -14440.593 / CPU time: 0.069
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -14440.593
+Optimal log-likelihood: -14440.592
+Rate parameters:  A-C: 1.17088  A-G: 6.10223  A-T: 0.44104  C-G: 0.10497  C-T: 6.88118  G-T: 1.00000
+Base frequencies:  A: 0.307  C: 0.202  G: 0.256  T: 0.234
+Parameters optimization took 1 rounds (0.010 sec)
+BEST SCORE FOUND : -14440.592
+Total tree length: 0.073
+
+Total number of iterations: 2
+CPU time used for tree search: 0.064 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.069 sec (0h:0m:0s)
+Total CPU time used: 1.195 sec (0h:0m:1s)
+Total wall-clock time used: 1.358 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.treefile
+  Likelihood distances:          results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.mldist
+  Screen log file:               results/H5Nx/tree/Antarctica20251001_trimmed_aligned-delim.fasta.log
+
+Date and Time: Mon Jan 19 16:07:55 2026

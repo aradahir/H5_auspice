@@ -1,0 +1,6 @@
+Building a tree via:
+	iqtree3 --threads-max 1 -s results/H5Nx/tree/Antarctica20251001_aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo > results/H5Nx/tree/Antarctica20251001_aligned-delim.iqtree.log
+	Please use the corresponding citations according to
+	https://iqtree.github.io/doc/Home#how-to-cite-iq-tree
+
+Building original tree took 1.6934998035430908 seconds
