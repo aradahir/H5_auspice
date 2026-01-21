@@ -23,3 +23,5 @@ clock_std_dev: 0.000329
 # Gene annotation
 gene_name: "all"
 
+#set repository name on github
+repo_name: "AntarticH5Tree"
