@@ -20,6 +20,7 @@ header_name = config["header_name"]
 clock_rate = config["clock_rate"]
 clock_std_dev = config["clock_std_dev"]
 gene_name = config.get("gene_name", "all")
+repo_name = config['repo_name']
 
 def set_alignment(alignment_option, filename):
     """
@@ -123,16 +124,16 @@ print(f"\nProcessing files: {filenames}\n")
 
 rule all:
     input:
-        auspice_json  = expand("results/H5Nx/auspice/{filename}_auspice.json", filename = filenames), 
-        nexus_out = expand("results/H5Nx/tree/{filename}_tree.nwk", filename = filenames),
-        nextclade_out = expand("nextclade/H5Nx/{filename}/clade.tsv", filename = filenames),
-        metadata_out = expand("data/{filename}_metadata.tsv", filename = filenames)
+        auspice_json  = expand("results/H5Nx/auspice/{repo_name}_{filename}_auspice.json", filename = filenames), 
+        nexus_out = expand("results/H5Nx/tree/{repo_name}_{filename}_tree.nwk", filename = filenames),
+        nextclade_out = expand("nextclade/H5Nx/{repo_name}_{filename}/clade.tsv", filename = filenames),
+        metadata_out = expand("data/{repo_name}_{filename}_metadata.tsv", filename = filenames)
 
 rule clade:
     input: 
         sequence = 'data/{filename}.fasta'
     output:
-        "nextclade/H5Nx/{filename}/clade.tsv"
+        "nextclade/H5Nx/{repo_name}_{filename}/clade.tsv"
     params:
         clade = clade_calling
     shell:
@@ -160,10 +161,10 @@ rule fix_encoding_metadata:
 rule combined_metadata:
     input:
         meta = "data/meta_{filename}_utf8.tsv",  # This will now match the output of fix_encoding_metadata
-        nextclade = "nextclade/H5Nx/{filename}/clade.tsv"
+        nextclade = "nextclade/H5Nx/{repo_name}_{filename}/clade.tsv"
     output:
-        meta_tree = "data/{filename}_metadata.tsv",
-        meta_freq = "data/{filename}_metadata_formatted.tsv"
+        meta_tree = "data/{repo_name}_{filename}_metadata.tsv",
+        meta_freq = "data/{repo_name}_{filename}_metadata_formatted.tsv"
     shell:
         """
         # Then join with nextclade data
@@ -182,7 +183,7 @@ rule augur_index:
     input: 
         sequence = 'data/{filename}.fasta'
     output:
-        "results/H5Nx/tree/{filename}_index.tsv"
+        "results/H5Nx/tree/{repo_name}_{filename}_index.tsv"
     shell:
         """ 
         augur index --sequences {input.sequence} --output {output} 2>&1
@@ -192,11 +193,11 @@ rule augur_align:
     input:
         sequence = 'data/{filename}.fasta'
     output:
-        "results/H5Nx/tree/{filename}_aligned.fasta"
+        "results/H5Nx/tree/{repo_name}_{filename}_aligned.fasta"
     params:
         ref = reference_name
     log:
-        "logs/{filename}_align.log"    
+        "logs/{repo_name}_{filename}_align.log"    
     shell:
         """
         augur align \
@@ -208,11 +209,11 @@ rule augur_align:
     
 rule augur_tree:
     input: 
-        'results/H5Nx/tree/{filename}_aligned.fasta'
+        'results/H5Nx/tree/{repo_name}_{filename}_aligned.fasta'
     output:
-        "results/H5Nx/tree/{filename}_tree_raw.nwk"
+        "results/H5Nx/tree/{repo_name}_{filename}_tree_raw.nwk"
     log:
-        "logs/{filename}_tree.log"
+        "logs/{repo_name}_{filename}_tree.log"
     shell:
         """
         augur tree --alignment {input} --output {output} &> {log}
@@ -221,19 +222,19 @@ rule augur_tree:
 
 rule augur_refine:
     input:
-        tree = "results/H5Nx/tree/{filename}_tree_raw.nwk",
-        alignment = "results/H5Nx/tree/{filename}_aligned.fasta",
-        metadata = "data/{filename}_metadata.tsv"
+        tree = "results/H5Nx/tree/{repo_name}_{filename}_tree_raw.nwk",
+        alignment = "results/H5Nx/tree/{repo_name}_{filename}_aligned.fasta",
+        metadata = "data/{repo_name}_{filename}_metadata.tsv"
     output:
-        tree = "results/H5Nx/tree/{filename}_tree.nwk",
-        node = "results/H5Nx/tree/{filename}_branch_lengths.json",
-        formatted_metadata = "results/H5Nx/tree/{filename}_metadata_formatted.tsv"
+        tree = "results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",
+        node = "results/H5Nx/tree/{repo_name}_{filename}_branch_lengths.json",
+        formatted_metadata = "results/H5Nx/tree/{repo_name}_{filename}_metadata_formatted.tsv"
     params:
         clock_rate = clock_rate,
         clock_std_dev = clock_std_dev,
         root = reference_name
     log:
-        "logs/{filename}_refine.log"
+        "logs/{repo_name}_{filename}_refine.log"
     shell:
         """
         augur curate format-dates \
@@ -257,12 +258,12 @@ rule augur_refine:
 
 rule traits:  
     input:  
-        tree =  "results/H5Nx/tree/{filename}_tree.nwk",  
-        metadata = "data/{filename}_metadata.tsv" 
+        tree =  "results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",  
+        metadata = "data/{repo_name}_{filename}_metadata.tsv" 
     output:  
-        node_data = "results/H5Nx/tree/{filename}_traits.json"
+        node_data = "results/H5Nx/tree/{repo_name}_{filename}_traits.json"
     log:
-        "logs/{filename}_traits.log"    
+        "logs/{repo_name}_{filename}_traits.log"    
     shell:  
         """  
         augur traits \
@@ -276,12 +277,12 @@ rule traits:
 
 rule augur_ancestral:
     input:
-        tree =  "results/H5Nx/tree/{filename}_tree.nwk",
-        alignment = "results/H5Nx/tree/{filename}_aligned.fasta"
+        tree =  "results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",
+        alignment = "results/H5Nx/tree/{repo_name}_{filename}_aligned.fasta"
     log:
-        "logs/{filename}_ancestral.log"
+        "logs/{repo_name}_{filename}_ancestral.log"
     output:
-        "results/H5Nx/tree/{filename}_nt_muts.json"
+        "results/H5Nx/tree/{repo_name}_{filename}_nt_muts.json"
     shell:
         """
         augur ancestral \
@@ -295,7 +296,7 @@ rule create_reference_genbank:
     input:
         sequence = 'data/{filename}.fasta'
     output:
-        ref_gb = "results/H5Nx/tree/{filename}_reference.gb"
+        ref_gb = "results/H5Nx/tree/{repo_name}_{filename}_reference.gb"
     params:
         ref_name = reference_name,
         gene_name = "HA",  # Change based on your segment
@@ -347,13 +348,13 @@ rule create_reference_genbank:
 
 rule augur_translate:
     input:
-        tree = "results/H5Nx/tree/{filename}_tree.nwk",
-        ancestral_sequence = "results/H5Nx/tree/{filename}_nt_muts.json",
-        reference = "results/H5Nx/tree/{filename}_reference.gb" 
+        tree = "results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",
+        ancestral_sequence = "results/H5Nx/tree/{repo_name}_{filename}_nt_muts.json",
+        reference = "results/H5Nx/tree/{repo_name}_{filename}_reference.gb" 
     log:
-        "logs/{filename}_translate.log"    
+        "logs/{repo_name}_{filename}_translate.log"    
     output:
-        "results/H5Nx/tree/{filename}_aa_muts.json"
+        "results/H5Nx/tree/{repo_name}_{filename}_aa_muts.json"
     shell:
         """
         augur translate \
@@ -365,17 +366,17 @@ rule augur_translate:
 
 rule frequency:
     input:
-        metadata = "results/H5Nx/tree/{filename}_metadata_formatted.tsv",
-        tree =  "results/H5Nx/tree/{filename}_tree.nwk",
-        traits = "results/H5Nx/tree/{filename}_traits.json",
+        metadata = "results/H5Nx/tree/{repo_name}_{filename}_metadata_formatted.tsv",
+        tree =  "results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",
+        traits = "results/H5Nx/tree/{repo_name}_{filename}_traits.json",
         script = "script/estimate_freq_annotated.py"
     log:
-        "logs/{filename}_frequencies.log"   
+        "logs/{repo_name}_{filename}_frequencies.log"   
     output:
-        freq_augur = "results/H5Nx/auspice/{filename}_frequencies.json",  
-        freq_sidecar = "results/H5Nx/auspice/{filename}_auspice_tip-frequencies.json"
+        freq_augur = "results/H5Nx/auspice/{repo_name}_{filename}_frequencies.json",  
+        freq_sidecar = "results/H5Nx/auspice/{repo_name}_{filename}_auspice_tip-frequencies.json"
     params:
-        "results/H5Nx/auspice/{filename}_tree.json"
+        "results/H5Nx/auspice/{repo_name}_{filename}_tree.json"
     shell:
         """
         augur export v2 \
@@ -401,26 +402,26 @@ rule export:
     message:
         "Exporting data files for auspice"
     input:
-        tree="results/H5Nx/tree/{filename}_tree.nwk",
-        metadata="data/{filename}_metadata.tsv",
-        branch_lengths = "results/H5Nx/tree/{filename}_branch_lengths.json",
-        aa_mut = "results/H5Nx/tree/{filename}_aa_muts.json",
-        nt_mut = "results/H5Nx/tree/{filename}_nt_muts.json",
-        traits = "results/H5Nx/tree/{filename}_traits.json",
-        freq_augur = "results/H5Nx/auspice/{filename}_frequencies.json",
-        freq_auspice = "results/H5Nx/auspice/{filename}_auspice_tip-frequencies.json",
+        tree="results/H5Nx/tree/{repo_name}_{filename}_tree.nwk",
+        metadata="data/{repo_name}_{filename}_metadata.tsv",
+        branch_lengths = "results/H5Nx/tree/{repo_name}_{filename}_branch_lengths.json",
+        aa_mut = "results/H5Nx/tree/{repo_name}_{filename}_aa_muts.json",
+        nt_mut = "results/H5Nx/tree/{repo_name}_{filename}_nt_muts.json",
+        traits = "results/H5Nx/tree/{repo_name}_{filename}_traits.json",
+        freq_augur = "results/H5Nx/auspice/{repo_name}_{filename}_frequencies.json",
+        freq_auspice = "results/H5Nx/auspice/{repo_name}_{filename}_auspice_tip-frequencies.json",
         auspice_config= "config/auspice_config.json"
     output:
-        auspice_json="results/H5Nx/auspice/{filename}_auspice.json",
+        auspice_json="results/H5Nx/auspice/{repo_name}_{filename}_auspice.json",
     params:
         header = header_name,
-        filename = "{filename}"
+        filename = "{repo_name}_{filename}"
     log:
-        "logs/{filename}_export.log"    
+        "logs/{repo_name}_{filename}_export.log"    
     shell:
         """
         # Select only the columns we need, wrapped in quotes to handle spaces
-        tsv-select -H -f 'strain,Host,Location,Broad_Location,PB2_D701_mutation,NA_deletion,Submitting_Lab,clade' \
+        tsv-select -H -f 'strain,Host,Location,Broad_Location,PB2 _D701_mutation,NA_deletion,Submitting_Lab,clade' \
             {input.metadata} > {input.metadata}_{params.filename}.tmp
         
         augur export v2 \
@@ -428,7 +429,7 @@ rule export:
             --metadata {input.metadata}_{params.filename}.tmp \
             --node-data {input.branch_lengths} {input.aa_mut} {input.nt_mut} {input.traits} {input.freq_augur} \
             --auspice-config {input.auspice_config} \
-            --color-by-metadata "Host" "Location" "Broad_Location" "PB2_D701_mutation" "NA_deletion" "Submitting_Lab" "clade"  \
+            --color-by-metadata "Host" "Location" "Broad_Location" "PB2_D701_mutation" "NA_deletion" "Submitting_Lab" "clade" \
             --minify-json \
             --title "Influenza: {params.header}" \
             --include-root-sequence \
